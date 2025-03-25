@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UpdatingRecord_script" package="MYSQLConnection.suite" timestamp="2025-03-17 14:23:51.534 +0530"
+ tests="1"  failures="1" errors="0" time="0.534000">
+  <properties>
+   <property name="RunDate" value="2025-03-17 14:23:51.534 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="UpdatingRecord.script" assertions="1" status="failure"  time="0.525">
+    <failure type="FAILURE" message="STDatabaseException: Can&apos;t update record values -- table sudheeksa.marklist has no primary key -- Execution Time 0:00:00 UpdatingRecord.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

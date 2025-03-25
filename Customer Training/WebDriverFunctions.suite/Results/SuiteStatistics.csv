@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Testcase/TC01,Failure,7,4,2025-03-21 16:53:13 +0530,2025-03-21 17:36:12 +0530,0:00:03
+WebDriverActions,Success,5,1,2025-03-20 10:46:12 +0530,2025-03-20 11:32:18 +0530,0:02:01
+FindElementsFunction,Failure,1,1,2025-03-21 12:38:36 +0530,2025-03-21 12:38:36 +0530,0:00:00

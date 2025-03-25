@@ -1,0 +1,5 @@
+﻿2025-02-25 16:38:20.073 +0530	START		Running ReadingRandomText.script
+2025-02-25 16:38:23.617 +0530	imagelocation	(TEXT:"Confirm pickup")	at (695, 278)	5	on_readingrandomtext	ReadingRandomText.script
+2025-02-25 16:38:23.623 +0530	Log		[695,278]	6	on_readingrandomtext	ReadingRandomText.script
+2025-02-25 16:38:23.721 +0530	EndTestCase		(Duration:"3.637", Errors:"0", Exceptions:"0", StartTime:"2025-02-25 16:38:20 +0530", Successes:"1", TestCase:"ReadingRandomText.script", Warnings:"0")
+2025-02-25 16:38:23.780 +0530	SUCCESS		Execution Time 0:00:03 ReadingRandomText.script

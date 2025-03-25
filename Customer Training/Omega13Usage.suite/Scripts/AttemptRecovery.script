@@ -1,0 +1,13 @@
+﻿
+
+log "Entered the AttemptRecovery"
+
+
+If Imagefound(text:"Courses")
+then
+	moveTo FoundImageLocation()
+	return yes
+else
+	CaptureScreen 
+	return no
+End If

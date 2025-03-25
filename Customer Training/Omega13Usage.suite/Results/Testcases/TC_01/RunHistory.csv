@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-02-25 15:15:40.595 +0530,"Success",0:00:14,0,0,0,"20250225_151540.595/LogFile.txt","","",1
+2025-02-25 15:16:33.118 +0530,"Aborted",0:00:24,1,0,1,"20250225_151633.118/LogFile.txt","","",0
+2025-02-25 15:17:03.730 +0530,"Failure",0:00:39,1,0,2,"20250225_151703.730/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""For Students"")"". Text not found.",0
+2025-02-25 15:35:35.571 +0530,"Failure",0:00:51,1,0,3,"20250225_153535.571/LogFile.txt","","No Remote Connection -- click Error - Retrieving Frame Buffer:No Connection to Server\n71_Machine\n",0
+2025-02-25 15:41:05.072 +0530,"Aborted",0:00:24,1,0,1,"20250225_154105.072/LogFile.txt","","",0
+2025-02-25 15:41:59.170 +0530,"Failure",0:00:48,1,0,3,"20250225_154159.170/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""For Students"")"". Text not found.",0
+2025-02-25 15:45:59.555 +0530,"Aborted",0:00:44,1,0,2,"20250225_154559.555/LogFile.txt","","",0
+2025-03-04 13:57:08.935 +0530,"Failure",0:01:28,1,0,4,"20250304_135708.935/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Placement Preparation Course"")"". Text not found.",0
+2025-03-04 17:33:49.187 +0530,"Aborted",0:01:20,1,0,3,"20250304_173349.187/LogFile.txt","","",0

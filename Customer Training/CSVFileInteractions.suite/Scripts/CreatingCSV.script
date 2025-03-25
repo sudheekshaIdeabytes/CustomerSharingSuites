@@ -1,0 +1,18 @@
+﻿
+
+
+set myFile to env("temp") & "\myDataFile.csv"
+log myFile
+
+
+
+set CSVfile to ResourcePath("myDataFile.csv")
+log CSVfile
+
+
+
+//If you have created a "csv" file like this then it would popup in the resurce window.
+create file ResourcePath("myDataFile.csv") 
+
+
+Click {Text:"Recycle", WaitFor:8}

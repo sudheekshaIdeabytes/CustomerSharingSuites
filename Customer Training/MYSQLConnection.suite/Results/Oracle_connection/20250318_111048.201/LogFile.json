@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Oracle_connection.script",
+				"identifier": "START",
+				"timestamp": "2025-03-18 11:10:48.208 +0530"
+			},
+		{
+				"message": "(Duration:\"0.12\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-18 11:10:48 +0530\", Successes:\"1\", TestCase:\"Oracle_connection.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-18 11:10:48.331 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Oracle_connection.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-18 11:10:48.439 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-18 11:10:48.210 +0530"
+}

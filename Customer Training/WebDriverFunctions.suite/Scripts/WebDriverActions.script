@@ -1,0 +1,145 @@
+﻿
+
+//In the background we need to start the selenum .bat file , or else I connection won't happen 
+
+WebConnect host:"127.0.0.1" , browser:"Chrome"  --not able to connect
+
+
+//Just has one parameter , i.e name of the connection
+WebDisconnect "WebdriverChrome" 
+
+
+
+//Webdriver() is a function that return the object of the current active webdriver connection (If any). Using this we can ACCESS or SET properties of this odject
+//The Webdriver() acts as a webconnect() function when connecting or switching the connection.
+//There are many properties of the function, We can see below one by one.
+
+log Webdriver()    //return object of active coonection
+
+put webdriver() into DriverObject 
+log Driverobject
+log item 2 of DriverObject  
+log DriverObject.Browser
+
+put webdriver(host:"127.0.0.1",browser:"Chrome")  //creates a webdriver connection with the host
+
+
+//***** As you are setting the global property don't forget the "the" keyword ******
+
+set the WebDriver's windowsize to "max"  // to set the window to max size of the active webdriver connection
+
+set the webdriver's URL to "https://demoblaze.com"   // opens the specified URL in the browser
+
+
+
+
+//Goback command has one parameter ; connection name.
+goback 
+goback "WebdriverChrome"
+
+
+//goforward command has one parameter ; connection name.
+GoForward
+GoForward "WebdriverChrome"
+
+
+
+
+//We can use refresh to refresh the connections
+refresh    --refresh the current active connection
+
+//We can use this command to refresh all the active connections using 
+set myOpenConnections to OpenWebConnections() // Stores a list of all open WebDriverConnection objects into variable 'myOpenConnections'
+repeat with each myConnection of myOpenConnections // Iterates through each object
+	Refresh myConnection // Refresh the associated browser
+end repeat
+
+
+
+
+//To take the screenshot of the browser window
+
+WebScreenshot "HomeScreen1"     ---default location C:/Users/sudheeksha.gunuputi/Documents/HomeScreen1.png
+
+WebScreenshot "C:\Users\sudheeksha.gunuputi\OneDrive - Ideabytes\Documents\HomeScreen2"
+
+Capturescreen  //Capturescreen will not work fro Webdriver connection.
+
+
+
+
+
+//To see the details of all the open connections we can use the Openwebconnections()
+put the openwebconnections
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

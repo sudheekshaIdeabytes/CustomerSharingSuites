@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:29:13.739 +0530"
+ tests="7"  failures="2" errors="0" time="25.415000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:29:13.739 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="11.424">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="1" status="(null)"  time="2.098">
+  </testcase>
+  <testcase name="click on the login option" assertions="0" status="(null)"  time="0.015">
+  </testcase>
+  <testcase name="Enter Email address" assertions="1" status="(null)"  time="6.917">
+  </testcase>
+  <testcase name="Enter password" assertions="1" status="(null)"  time="3.235">
+  </testcase>
+  <testcase name="click on Login button" assertions="1" status="(null)"  time="1.653">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="6" status="failure"  time="25.404">
+    <failure type="LogError" message="Error at step: The application launches on the chrome browser" />
+    <failure type="FAILURE" message="1 scenarios (1 failed, 0 passed) 6 steps (1 failed, 1 skipped, 4 passed) Execution Time 0:00:25" />
+  </testcase>
+ </testsuite>
+</testsuites>

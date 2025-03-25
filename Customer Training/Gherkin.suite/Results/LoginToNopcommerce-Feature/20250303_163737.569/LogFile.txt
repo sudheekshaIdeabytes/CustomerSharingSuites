@@ -1,0 +1,8 @@
+﻿2025-03-03 16:37:37.576 +0530	START		Running Untitled.feature
+2025-03-03 16:37:37.703 +0530	typetext		[windowsKey]r	2	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:37:40.186 +0530	typetext		chrome https:\\demo.nopcommerce.com\ --start --maximize[return]	3	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:37:48.202 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 886)	4	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:37:48.209 +0530	LogSuccess		Start Time: 16:37:37, Stop Time: 16:37:48 step: The application launches on the chrome browser	3	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:37:48.215 +0530	EndTestCase		(Duration:"10.632", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:37:37 +0530", Successes:"1", TestCase:"The application launches on the chrome browser", Warnings:"0")
+2025-03-03 16:37:48.221 +0530	EndTestCase		(Duration:"10.641", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:37:37 +0530", Successes:"1", TestCase:"Untitled.feature", Warnings:"0")
+2025-03-03 16:37:48.365 +0530	SUCCESS		1 scenarios (0 failed, 1 passed) 1 steps (0 failed, 0 skipped, 1 passed) Execution Time 0:00:10

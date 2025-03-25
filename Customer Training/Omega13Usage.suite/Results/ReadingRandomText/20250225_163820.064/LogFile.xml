@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ReadingRandomText_script" package="Omega13Usage.suite" timestamp="2025-02-25 16:38:20.064 +0530"
+ tests="1"  failures="0" errors="0" time="3.655000">
+  <properties>
+   <property name="RunDate" value="2025-02-25 16:38:20.064 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ReadingRandomText.script" assertions="1" status="success"  time="3.637">
+  </testcase>
+ </testsuite>
+</testsuites>

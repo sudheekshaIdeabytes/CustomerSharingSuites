@@ -1,0 +1,4 @@
+﻿2025-03-20 11:29:44.958 +0530	START		Running WebDriverActions.script
+2025-03-20 11:31:45.086 +0530	WebConnect		{browser:"Chrome", host:"192.168.1.75"}	5	on_webdriveractions	WebDriverActions.script
+2025-03-20 11:31:45.123 +0530	EndTestCase		(Duration:"120.161", Errors:"0", Exceptions:"0", StartTime:"2025-03-20 11:29:44 +0530", Successes:"1", TestCase:"WebDriverActions.script", Warnings:"0")
+2025-03-20 11:31:45.160 +0530	SUCCESS		Execution Time 0:02:00 WebDriverActions.script

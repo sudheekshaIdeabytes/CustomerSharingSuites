@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Oracle_connection_script" package="MYSQLConnection.suite" timestamp="2025-03-18 10:01:57.699 +0530"
+ tests="1"  failures="1" errors="0" time="0.165000">
+  <properties>
+   <property name="RunDate" value="2025-03-18 10:01:57.699 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Oracle_connection.script" assertions="1" status="failure"  time="0.155">
+    <failure type="FAILURE" message="STDatabaseConnectionError: Failed to connect to ODBC database odbc:3 Reason: [Oracle][ODBC][Ora]ORA-28009: connection as SYS should be as SYSDBA or SYSOPER\n, SQLSTATE=HY000 -- Execution Time 0:00:00 Oracle_connection.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

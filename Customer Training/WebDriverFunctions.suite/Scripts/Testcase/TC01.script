@@ -1,0 +1,6 @@
+﻿
+
+
+"Testcase/Common".OpenApplication "https://demoblaze.com"
+"Testcase/Common".Signin  "Eggplant" , "welcome@123"
+"Testcase/Common".Login  "Eggplant" , "welcome@123"

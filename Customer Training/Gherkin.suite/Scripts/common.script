@@ -1,0 +1,6 @@
+﻿
+
+to textEntry label , data
+	click text:label
+	typetext data
+end textEntry

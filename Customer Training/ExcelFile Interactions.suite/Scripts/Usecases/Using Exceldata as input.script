@@ -1,0 +1,38 @@
+﻿
+
+Common.OpenWorkbook
+set Inputdata to worksheet(global MyWorkbook,2)
+put Inputdata.name into Sheetname
+
+
+//connect "71_Machine"
+TypeText windowsKey, "r"
+waitfor 10, text:"Type the name"
+
+Put cell(A2) of Inputdata into browser
+put cell(B2) of Inputdata into URL
+
+Typetext browser&&URL , return
+waitfor 20, text:"Welcome"
+LogSuccess "Opened Nopcommerce store in chrome browser"
+
+
+Click text:"Log in"
+
+put cell(C2) of Inputdata into Email
+put cell(D2) of Inputdata into password
+
+
+Click text:"Email"
+Typetext Email
+
+click text:"Password"
+Typetext password
+
+click text:"LOG IN",caseSensitive:yes
+
+TypeText controlKey, "w"
+
+
+
+

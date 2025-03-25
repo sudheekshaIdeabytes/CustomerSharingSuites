@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:37:20.560 +0530"
+ tests="2"  failures="0" errors="0" time="9.812000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:37:20.560 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="9.79">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="1" status="success"  time="9.801">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="AddingRecord_script" package="MYSQLConnection.suite" timestamp="2025-03-17 14:08:34.135 +0530"
+ tests="1"  failures="1" errors="0" time="0.538000">
+  <properties>
+   <property name="RunDate" value="2025-03-17 14:08:34.135 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="AddingRecord.script" assertions="1" status="failure"  time="0.529">
+    <failure type="FAILURE" message="ST_ODBC_InsertError: [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry &apos;106&apos; for key &apos;marklist.PRIMARY&apos;, SQLSTATE=23000 -- Execution Time 0:00:00 AddingRecord.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

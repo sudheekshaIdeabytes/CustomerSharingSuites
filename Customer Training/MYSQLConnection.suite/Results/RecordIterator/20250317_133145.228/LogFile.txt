@@ -1,0 +1,4 @@
+﻿2025-03-17 13:31:45.235 +0530	START		Running RecordIterator.script
+2025-03-17 13:31:45.729 +0530	Log		{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:"Avinash", Total:286}	16	on_recorditerator	RecordIterator.script
+2025-03-17 13:31:45.743 +0530	EndTestCase		(Duration:"0.504", Errors:"0", Exceptions:"0", StartTime:"2025-03-17 13:31:45 +0530", Successes:"1", TestCase:"RecordIterator.script", Warnings:"0")
+2025-03-17 13:31:45.829 +0530	SUCCESS		Execution Time 0:00:00 RecordIterator.script

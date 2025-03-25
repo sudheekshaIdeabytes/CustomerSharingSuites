@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ReadingRandomText_script" package="Omega13Usage.suite" timestamp="2025-02-25 17:02:08.227 +0530"
+ tests="1"  failures="1" errors="0" time="7.718000">
+  <properties>
+   <property name="RunDate" value="2025-02-25 17:02:08.227 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="ReadingRandomText.script" assertions="1" status="failure"  time="7.701">
+    <failure type="FAILURE" message="STInvalidParameters: Function readtext should be called with between 1 and 5 parameters -- Execution Time 0:00:07 ReadingRandomText.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

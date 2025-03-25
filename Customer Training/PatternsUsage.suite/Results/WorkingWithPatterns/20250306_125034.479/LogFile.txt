@@ -1,0 +1,6 @@
+﻿2025-03-06 12:50:34.491 +0530	START		Running WorkingWithPatterns.script
+2025-03-06 12:50:35.948 +0530	imagelocation	(TEXT:"call")	at (85, 143)	4	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 12:50:35.956 +0530	set		SEARCHRECTANGLE = [105,133,285,153]	6	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 12:50:40.997 +0530	Exception	\d	Could Not Open Image: \d	11	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 12:50:41.015 +0530	EndTestCase		(Duration:"6.518", Errors:"1", Exceptions:"1", StartTime:"2025-03-06 12:50:34 +0530", Successes:"0", TestCase:"WorkingWithPatterns.script", Warnings:"0")
+2025-03-06 12:50:41.320 +0530	FAILURE	Screen_Error.png	File Not Found: readtext Error - Could Not Open Image: \d -- Execution Time 0:00:06 WorkingWithPatterns.script

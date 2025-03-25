@@ -1,0 +1,12 @@
+﻿2025-03-03 16:36:26.529 +0530	START		Running Untitled.feature
+2025-03-03 16:36:26.662 +0530	typetext		[windowsKey]r	2	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:36:29.136 +0530	typetext		chrome https:\\demo.nopcommerce.com\ --start --maximize[return]	3	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:36:36.588 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 885)	4	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:36:36.597 +0530	LogSuccess		Start Time: 16:36:26, Stop Time: 16:36:36 step: The application launches on the chrome browser	3	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:36:36.603 +0530	EndTestCase		(Duration:"10.066", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:36:26 +0530", Successes:"1", TestCase:"The application launches on the chrome browser", Warnings:"0")
+2025-03-03 16:36:38.184 +0530	imagefound	(TEXT:"Log in")	found at (1278, 108)	2	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:36:38.308 +0530	click		at (1278, 108)	4	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:36:38.315 +0530	LogSuccess		Start Time: 16:36:36, Stop Time: 16:36:38 step: Login option is avilable	4	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:36:38.325 +0530	EndTestCase		(Duration:"1.713", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:36:36 +0530", Successes:"1", TestCase:"Login option is avilable", Warnings:"0")
+2025-03-03 16:36:38.337 +0530	EndTestCase		(Duration:"11.801", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:36:26 +0530", Successes:"2", TestCase:"Untitled.feature", Warnings:"0")
+2025-03-03 16:36:38.393 +0530	SUCCESS		1 scenarios (0 failed, 1 passed) 2 steps (0 failed, 0 skipped, 2 passed) Execution Time 0:00:11

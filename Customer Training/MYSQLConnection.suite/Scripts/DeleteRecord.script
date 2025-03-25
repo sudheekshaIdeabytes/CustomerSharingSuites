@@ -1,0 +1,12 @@
+﻿
+
+//To delete record using "Delete Record"
+
+set MyDB to {type:"odbc",DSN:"Sudhee_ODBC",user:"root",password:"Sudhee@2001"}
+
+set MyTable to table "sudheeksa.marklist" of myDB
+
+//delete record NewStudent of MyTable   ---this way of DELETION IS NOT POSSIBLE
+
+delete records from MyTable where Id is 101
+

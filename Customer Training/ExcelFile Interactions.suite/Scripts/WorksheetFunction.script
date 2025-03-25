@@ -1,0 +1,13 @@
+﻿
+//To access each sheet of a workbook 
+//Worksheet functio has 2 parameters. Workbook name and the sheet number / sheet name
+set universal StudentMarkList to worksheet(universal MyWorkbook,1)
+log universal StudentMarkList
+
+
+//Some of the properties of worksheet
+
+//prints the worksheet name
+log universal StudentMarkList's name
+
+

@@ -1,0 +1,3 @@
+﻿2025-03-17 14:08:34.142 +0530	START		Running AddingRecord.script
+2025-03-17 14:08:34.674 +0530	EndTestCase		(Duration:"0.529", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 14:08:34 +0530", Successes:"0", TestCase:"AddingRecord.script", Warnings:"0")
+2025-03-17 14:08:34.767 +0530	FAILURE		ST_ODBC_InsertError: [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry '106' for key 'marklist.PRIMARY', SQLSTATE=23000 -- Execution Time 0:00:00 AddingRecord.script

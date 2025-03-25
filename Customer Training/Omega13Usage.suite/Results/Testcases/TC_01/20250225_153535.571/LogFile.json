@@ -1,0 +1,96 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcases/TC_01.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 15:35:35.577 +0530"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:35:35.787 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:35:41.298 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:35:42.473 +0530",
+				"message": "firefox https:\\\\geeksforgeeks.org[return]",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:36:10.001 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"For Students\")\". Text not found.",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-02-25 15:36:10.021 +0530",
+				"message": "Entered the AttemptRecovery",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-02-25 15:36:11.633 +0530",
+				"scriptName": "AttemptRecovery.script",
+				"message": "found at (60, 110)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-02-25 15:36:11.817 +0530",
+				"message": "at (60, 110)",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:36:26.707 +0530",
+				"message": "Retrieving Frame Buffer:No Connection to Server\\n71_Machine\\n",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:36:26.716 +0530",
+				"message": "No Remote Connection - click Error - Retrieving Frame Buffer:No Connection to Server\\n71_Machine\\n",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"handlerLine": 15,
+				"identifier": "Throw"
+			},
+		{
+				"message": "(Duration:\"51.262\", Errors:\"1\", Exceptions:\"3\", StartTime:\"2025-02-25 15:35:35 +0530\", Successes:\"0\", TestCase:\"Testcases/TC_01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 15:36:26.845 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "No Remote Connection: click Error - Retrieving Frame Buffer:No Connection to Server\\n71_Machine\\n -- Execution Time 0:00:51 Testcases/TC_01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-02-25 15:36:26.994 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 15:35:35.582 +0530"
+}

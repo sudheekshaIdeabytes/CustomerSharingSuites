@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Requirement.script",
+				"identifier": "START",
+				"timestamp": "2025-02-21 13:58:01.863 +0530"
+			},
+		{
+				"handlerName": "on_requirement",
+				"timestamp": "2025-02-21 13:58:01.938 +0530",
+				"message": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<DataPDU xmlns=\"urn:swift:saa:xsd:saa.2.0\">\\n  <Header>\\n    <Message>\\n      <SenderReference>HNpacs009CA03003</SenderReference>\\n      <Messageldentifier>pacs.009.001.08</Messageldentifier>\\n      <Format>AnyXML</Format>\\n      <SubFormat>Input</SubFormat>\\n      <Sender>\\n        <DN>o=eobbmykl,o=swift</DN>\\n        <FullName>\\n          <X1>EOBBMYKLXXX</X1>\\n        </FullName>\\n      </Sender>\\n      <Receiver>\\n        <DN>o=bnmamy2k,o=swift</DN>\\n        <FullName>\\n          <X1>BNMAMY2KXXX</X1>\\n        </FullName>\\n      </Receiver>\\n      <NetworkInfo>\\n        <Service>bnm.rtgslpi</Service>\\n      </NetworkInfo>\\n    </Message>\\n  </Header>\\n  <Body>\\n    <AppHdr xmlns=\"urn:iso:std:iso:20022:tech:xsd:head.001.001.01\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\\n      <Fr>\\n        <FIId>\\n          <FinInstnId>\\n            <BICFI>EOBBMYKL</BICFI>\\n          </FinInstnId>\\n        </FIId>\\n      </Fr>\\n      <To>\\n        <FIId>\\n          <FinInstnId>\\n            <BICFI>BNMAMY2K</BICFI>\\n          </FinInstnId>\\n        </FIId>\\n      </To>\\n      <BizMsgIdr>HNpacs009CA03003</BizMsgIdr>\\n      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>\\n      <BizSvc>bnm.rts.pb.01</BizSvc>\\n      <CreDt>2020-08-11T03:27:16Z</CreDt>\\n    </AppHdr>\\n    <Document xmlns=\"urn:iso:std:iso:20022:tech:xsd:pacs.009.001.08\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\\n      <FICdtTrf>\\n        <GrpHdr>\\n          <MsgId>HNpacs009CA03003</MsgId>\\n          <CreDtTm>2020-08-11T11:27:16</CreDtTm>\\n          <NbOfTxs>1</NbOfTxs>\\n          <SttlmInf>\\n            <SttlmMtd>CLRG</SttlmMtd>\\n          </SttlmInf>\\n        </GrpHdr>\\n        <CdtTrfTxInf>\\n          <PmtId>\\n            <InstrId>HNpacs009CA03003</InstrId>\\n            <EndToEndId>NONREF</EndToEndId>\\n            <TxId>HNpacs009CA03003</TxId>\\n            <UETR>eb6305c9-1f7f-49de-aed0-16487c27b88d</UETR>\\n          </PmtId>\\n          <PmtTpInf>\\n            <CtgyPurp>\\n              <Prtry>IFT00</Prtry>\\n            </CtgyPurp>\\n          </PmtTpInf>\\n          <IntrBkSttlmAmt Ccy=\"MYR\">100</IntrBkSttlmAmt>\\n          <IntrBkSttlmDt>2020-08-11</IntrBkSttlmDt>\\n          <InstgAgt>\\n            <FinInstnId>\\n              <BICFI>EOBBMYKL</BICFI>\\n            </FinInstnId>\\n          </InstgAgt>\\n          <InstdAgt>\\n            <FinInstnId>\\n              <BICFI>BKEWMYK1</BICFI>\\n            </FinInstnId>\\n          </InstdAgt>\\n          <Dbtr>\\n            <FinInstnId>\\n              <BICFI>EOBBMYKL</BICFI>\\n            </FinInstnId>\\n          </Dbtr>\\n          <Cdtr>\\n            <FinInstnId>\\n              <BICFI>BKEWMYK1</BICFI>\\n            </FinInstnId>\\n          </Cdtr>\\n          <InstrForNxtAgt>\\n            <InstrInf>/PAYA/MY67BNMA1554010237</InstrInf>\\n          </InstrForNxtAgt>\\n          <InstrForNxtAgt>\\n            <InstrInf>/CPRA/MY06BNMABKEW1606293121</InstrInf>\\n          </InstrForNxtAgt>\\n          <RmtInf>\\n            <Ustrd>/STCD/stock info</Ustrd>\\n          </RmtInf>\\n        </CdtTrfTxInf>\\n      </FICdtTrf>\\n    </Document>\\n  </Body>\\n</DataPDU>",
+				"scriptName": "Requirement.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_requirement",
+				"timestamp": "2025-02-21 13:58:01.948 +0530",
+				"message": "02/21/25",
+				"scriptName": "Requirement.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.115\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-02-21 13:58:01 +0530\", Successes:\"0\", TestCase:\"Requirement.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-21 13:58:01.983 +0530"
+			},
+		{
+				"message": "STInvalidParameter: The NodePath() function must be called with a tree node -- Execution Time 0:00:00 Requirement.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-02-21 13:58:02.041 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-21 13:58:01.867 +0530"
+}

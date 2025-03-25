@@ -1,0 +1,3 @@
+﻿2025-03-14 16:58:23.811 +0530	START		Running AddingRecord.script
+2025-03-14 16:58:24.830 +0530	EndTestCase		(Duration:"1.013", Errors:"0", Exceptions:"0", StartTime:"2025-03-14 16:58:23 +0530", Successes:"1", TestCase:"AddingRecord.script", Warnings:"0")
+2025-03-14 16:58:24.975 +0530	SUCCESS		Execution Time 0:00:01 AddingRecord.script

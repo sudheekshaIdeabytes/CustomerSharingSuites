@@ -1,0 +1,4 @@
+﻿2025-03-11 17:15:14.321 +0530	START		Running Keywords.script
+2025-03-11 17:15:15.340 +0530	click	(TEXT:"$99.99")	at (804, 169)	14	on_keywords	Keywords.script
+2025-03-11 17:15:15.382 +0530	EndTestCase		(Duration:"1.055", Errors:"1", Exceptions:"0", StartTime:"2025-03-11 17:15:14 +0530", Successes:"0", TestCase:"Keywords.script", Warnings:"0")
+2025-03-11 17:15:15.831 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:01 Keywords.script

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcases/TC_01.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 15:15:40.606 +0530"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:15:40.816 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:15:49.898 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "found at (117, 875)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:15:51.056 +0530",
+				"message": "firefox https:\\\\geeksforgeeks.org[return]",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:15:54.783 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "at (60, 109)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"14.205\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-25 15:15:40 +0530\", Successes:\"1\", TestCase:\"Testcases/TC_01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 15:15:54.817 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:14 Testcases/TC_01.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-25 15:15:54.857 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 15:15:40.611 +0530"
+}

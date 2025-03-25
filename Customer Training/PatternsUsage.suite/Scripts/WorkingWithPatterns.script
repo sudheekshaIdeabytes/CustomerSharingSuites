@@ -1,0 +1,20 @@
+﻿
+
+
+put imagelocation(text:"call") into CallLocation
+
+set the SearchRectangle to [CallLocation.x+20,CallLocation.y-10,CallLocation.x+200,CallLocation.y+10]
+
+put ReadText(the searchrectangle)
+
+wait 5
+
+set Number to <maybe letters, one or more digits then "-" >
+
+
+put ReadText(the SearchRectangle) into PhoneNumber
+
+
+put every occurrence of  NUmber in PhoneNumber 
+
+put readtext([671,315,762,346])

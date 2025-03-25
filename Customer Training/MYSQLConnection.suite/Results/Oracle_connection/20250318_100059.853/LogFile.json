@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Oracle_connection.script",
+				"identifier": "START",
+				"timestamp": "2025-03-18 10:00:59.860 +0530"
+			},
+		{
+				"message": "(Duration:\"1.175\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-18 10:00:59 +0530\", Successes:\"0\", TestCase:\"Oracle_connection.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-18 10:01:01.038 +0530"
+			},
+		{
+				"message": "STDatabaseConnectionError: Failed to connect to ODBC database odbc:2 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied\\n, SQLSTATE=28000 -- Execution Time 0:00:01 Oracle_connection.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-18 10:01:01.152 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-18 10:00:59.862 +0530"
+}

@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running RecordIterator.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 13:31:03.144 +0530"
+			},
+		{
+				"message": "(Duration:\"0.554\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-17 13:31:03 +0530\", Successes:\"0\", TestCase:\"RecordIterator.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 13:31:03.703 +0530"
+			},
+		{
+				"message": "STTableError: Value can't become a database table: memberTable -- Execution Time 0:00:00 RecordIterator.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-17 13:31:03.806 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 13:31:03.149 +0530"
+}

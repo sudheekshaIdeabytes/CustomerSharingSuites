@@ -1,0 +1,3 @@
+﻿2025-03-17 13:31:03.144 +0530	START		Running RecordIterator.script
+2025-03-17 13:31:03.703 +0530	EndTestCase		(Duration:"0.554", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 13:31:03 +0530", Successes:"0", TestCase:"RecordIterator.script", Warnings:"0")
+2025-03-17 13:31:03.806 +0530	FAILURE		STTableError: Value can't become a database table: memberTable -- Execution Time 0:00:00 RecordIterator.script

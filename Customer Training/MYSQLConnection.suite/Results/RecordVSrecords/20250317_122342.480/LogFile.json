@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running RecordVSrecords.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 12:23:42.488 +0530"
+			},
+		{
+				"message": "(Duration:\"0.541\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-17 12:23:42 +0530\", Successes:\"1\", TestCase:\"RecordVSrecords.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 12:23:43.033 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 RecordVSrecords.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-17 12:23:43.125 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 12:23:42.490 +0530"
+}

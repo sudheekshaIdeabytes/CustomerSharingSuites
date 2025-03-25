@@ -1,0 +1,4 @@
+﻿2025-02-26 11:12:06.963 +0530	START		Running CreatingCSV.script
+2025-02-26 11:12:07.007 +0530	Log		C:\Users\SUDHEE~1.GUN\AppData\Local\Temp\myDataFile.csv	6	on_creatingcsv	CreatingCSV.script
+2025-02-26 11:12:07.030 +0530	EndTestCase		(Duration:"0.06", Errors:"0", Exceptions:"0", StartTime:"2025-02-26 11:12:06 +0530", Successes:"1", TestCase:"CreatingCSV.script", Warnings:"0")
+2025-02-26 11:12:07.074 +0530	SUCCESS		Execution Time 0:00:00 CreatingCSV.script

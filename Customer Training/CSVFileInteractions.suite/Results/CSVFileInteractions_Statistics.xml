@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="CreatingCSV">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-02-26 11:11:21 +0530</FirstRun>
+  <LastRun>2025-02-26 11:12:06 +0530</LastRun>
+  <TotalTimeOnSuccess>0.184000</TotalTimeOnSuccess>
+ </script>
+</statistics>

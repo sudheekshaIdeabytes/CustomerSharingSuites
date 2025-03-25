@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="ReadingRecord">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-03-14 16:26:55 +0530</FirstRun>
+  <LastRun>2025-03-17 15:15:57 +0530</LastRun>
+  <TotalTimeOnSuccess>3.422000</TotalTimeOnSuccess>
+ </script>
+ <script name="ExecuteSQLStatements">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-03-17 10:07:18 +0530</FirstRun>
+  <LastRun>2025-03-17 10:09:50 +0530</LastRun>
+  <TotalTimeOnSuccess>1.853000</TotalTimeOnSuccess>
+ </script>
+ <script name="RecordIterator">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2025-03-17 13:31:03 +0530</FirstRun>
+  <LastRun>2025-03-17 13:39:00 +0530</LastRun>
+  <TotalTimeOnSuccess>1.615000</TotalTimeOnSuccess>
+ </script>
+ <script name="ZZZZZZZZZZ">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2025-03-17 15:38:56 +0530</FirstRun>
+  <LastRun>2025-03-17 15:43:14 +0530</LastRun>
+  <TotalTimeOnSuccess>5.120000</TotalTimeOnSuccess>
+ </script>
+ <script name="UpdatingRecord">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2025-03-17 14:22:12 +0530</FirstRun>
+  <LastRun>2025-03-17 15:15:40 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="AddingRecord">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2025-03-14 16:09:14 +0530</FirstRun>
+  <LastRun>2025-03-17 14:09:12 +0530</LastRun>
+  <TotalTimeOnSuccess>8.205000</TotalTimeOnSuccess>
+ </script>
+ <script name="Connection">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-03-14 15:44:56 +0530</FirstRun>
+  <LastRun>2025-03-14 15:44:56 +0530</LastRun>
+  <TotalTimeOnSuccess>0.147000</TotalTimeOnSuccess>
+ </script>
+ <script name="RecordVSrecords">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-03-17 12:23:42 +0530</FirstRun>
+  <LastRun>2025-03-17 12:23:42 +0530</LastRun>
+  <TotalTimeOnSuccess>0.552000</TotalTimeOnSuccess>
+ </script>
+ <script name="Oracle_connection">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>25</NumberOfRuns>
+  <NumberOfFails>23</NumberOfFails>
+  <FirstRun>2025-03-17 18:09:59 +0530</FirstRun>
+  <LastRun>2025-03-18 18:22:18 +0530</LastRun>
+  <TotalTimeOnSuccess>0.623000</TotalTimeOnSuccess>
+ </script>
+ <script name="DeleteRecord">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2025-03-14 16:49:15 +0530</FirstRun>
+  <LastRun>2025-03-17 14:10:56 +0530</LastRun>
+  <TotalTimeOnSuccess>9.572000</TotalTimeOnSuccess>
+ </script>
+</statistics>

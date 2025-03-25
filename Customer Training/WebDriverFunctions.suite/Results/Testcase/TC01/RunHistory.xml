@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Testcase/TC01">
+ <run>
+  <RunDate>2025-03-21 16:53:13.002 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.095000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250321_165313.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;openapplication&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 16:53:33.045 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.070000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250321_165333.045/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 16:54:09.883 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.721000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250321_165409.883/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 17:22:30.705 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>9.953000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250321_172230.705/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 17:34:18.763 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>15.134000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250321_173418.763/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>WebElement Not Found -- click Error - 
+Unable to find the WebElement &#x27;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&#x27; on the page.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 17:34:56.181 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>13.861000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250321_173456.181/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>WebElement Not Found -- click Error - 
+Unable to find the WebElement &#x27;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&#x27; on the page.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-21 17:36:12.566 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.408000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250321_173612.566/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>WebElement Not Found -- click Error - 
+Unable to find the WebElement &#x27;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&#x27; on the page.</ErrorMessage>
+ </run>
+</runHistory>

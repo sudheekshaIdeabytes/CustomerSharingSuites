@@ -1,0 +1,114 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcase/TC01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-21 17:22:30.713 +0530"
+			},
+		{
+				"handlerName": "on_openapplication",
+				"timestamp": "2025-03-21 17:22:32.661 +0530",
+				"message": "https://demoblaze.com on {blendScaledScreen:False, Browser:\"chrome\", colorDepth:0, height:768, Host:\"127.0.0.1\", model:\"Chrome\", Name:\"WebdriverChrome\", overrideName:\"WebdriverChrome\", Port:4444, scaleRemoteScreen:0, skipAvailabilityCheck:False, temporary:False, type:\"WebDriver\", username:\"\", width:1024}",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 3,
+				"identifier": "Set URL"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:22:33.311 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1183, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"signin2\", Name:\"\", Text:\"Sign up\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1149.925049,17.262501,1217.925049,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:22:34.552 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (759, 170)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-username\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[525.400024,151.587509,993.400024,189.587509]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:22:34.615 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:22:35.802 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (759, 269)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-password\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[525.400024,250.175003,993.400024,288.175003]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:22:35.893 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:22:38.068 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1121, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"login2\", Name:\"\", Text:\"Log in\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1092.075073,17.262501,1150.075073,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:22:39.281 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginusername\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:22:39.355 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:22:40.517 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginpassword\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:22:40.610 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"message": "(Duration:\"9.941\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-21 17:22:30 +0530\", Successes:\"1\", TestCase:\"Testcase/TC01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-21 17:22:40.660 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:09 Testcase/TC01.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-21 17:22:40.718 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-21 17:22:30.717 +0530"
+}

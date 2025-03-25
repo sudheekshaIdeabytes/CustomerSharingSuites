@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running RecordIterator.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 13:38:45.961 +0530"
+			},
+		{
+				"handlerName": "on_recorditerator",
+				"timestamp": "2025-03-17 13:38:46.468 +0530",
+				"message": "{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:\"Avinash\", Total:286}",
+				"scriptName": "RecordIterator.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_recorditerator",
+				"timestamp": "2025-03-17 13:38:46.504 +0530",
+				"message": "{English:98, Id:102, Mathematics:96, Ranks:1, Science:97, StudentName:\"Anil\", Total:291}",
+				"scriptName": "RecordIterator.script",
+				"handlerLine": 27,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.579\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-17 13:38:45 +0530\", Successes:\"0\", TestCase:\"RecordIterator.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 13:38:46.544 +0530"
+			},
+		{
+				"message": "STUnknownMessage: ERROR: No Such Function: 'lastvalue' -- Execution Time 0:00:00 RecordIterator.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-17 13:38:46.635 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 13:38:45.963 +0530"
+}

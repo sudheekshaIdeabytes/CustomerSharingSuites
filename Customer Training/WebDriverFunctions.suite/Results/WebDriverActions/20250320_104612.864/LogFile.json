@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running WebDriverActions.script",
+				"identifier": "START",
+				"timestamp": "2025-03-20 10:46:12.872 +0530"
+			},
+		{
+				"handlerName": "on_webdriveractions",
+				"timestamp": "2025-03-20 10:46:17.040 +0530",
+				"message": "{browser:\"Chrome\", host:\"127.0.0.1\", temporary:True, url:@\"https:\\\\\\\\demoblaze.com\"}",
+				"scriptName": "WebDriverActions.script",
+				"handlerLine": 3,
+				"identifier": "WebConnect"
+			},
+		{
+				"message": "(Duration:\"4.195\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-20 10:46:12 +0530\", Successes:\"1\", TestCase:\"WebDriverActions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-20 10:46:17.079 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:04 WebDriverActions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-20 10:46:17.126 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-20 10:46:12.881 +0530"
+}

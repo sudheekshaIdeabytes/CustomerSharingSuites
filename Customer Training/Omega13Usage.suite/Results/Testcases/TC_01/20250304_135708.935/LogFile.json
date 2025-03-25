@@ -1,0 +1,146 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcases/TC_01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-04 13:57:08.943 +0530"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-03-04 13:57:09.186 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:57:11.489 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-03-04 13:57:12.851 +0530",
+				"message": "Chrome https:\\\\geeksforgeeks.org[return]",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:57:33.091 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"For Students\")\". Text not found.",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:57:33.109 +0530",
+				"message": "Entered the AttemptRecovery",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:57:34.738 +0530",
+				"scriptName": "AttemptRecovery.script",
+				"message": "found at (60, 110)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:57:34.829 +0530",
+				"message": "at (60, 110)",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:57:37.039 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "at (71, 408)",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:58:06.955 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Placement Preparation Course\")\". Text not found.",
+				"image": "(TEXT:\"Placement Preparation Course\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:58:06.984 +0530",
+				"message": "Entered the AttemptRecovery",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:58:08.688 +0530",
+				"scriptName": "AttemptRecovery.script",
+				"message": "found at (60, 110)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 13:58:08.782 +0530",
+				"message": "at (60, 110)",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:58:37.298 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Placement Preparation Course\")\". Text not found.",
+				"image": "(TEXT:\"Placement Preparation Course\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 13:58:37.313 +0530",
+				"message": "Image Not Found - click Error - No Text Found On Screen: \"(TEXT:\"Placement Preparation Course\")\". Text not found.",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"handlerLine": 15,
+				"identifier": "Throw"
+			},
+		{
+				"message": "(Duration:\"88.427\", Errors:\"1\", Exceptions:\"4\", StartTime:\"2025-03-04 13:57:08 +0530\", Successes:\"0\", TestCase:\"Testcases/TC_01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-04 13:58:37.378 +0530"
+			},
+		{
+				"image": "C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/Omega13Usage.suite/Results/Testcases/TC_01/20250304_135708.935/Screen_Error.png",
+				"message": "CapturedErrorScreenshot",
+				"identifier": "Error Screen",
+				"timestamp": "2025-03-04 13:58:37.545 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Text Found On Screen: \"(TEXT:\"Placement Preparation Course\")\". Text not found. -- Execution Time 0:01:28 Testcases/TC_01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-04 13:58:37.550 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-04 13:57:08.949 +0530"
+}

@@ -1,0 +1,70 @@
+{
+	"entries": [
+		{
+				"message": "Running ReadingRandomText.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 17:03:46.304 +0530"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:48.812 +0530",
+				"scriptName": "ReadingRandomText.script",
+				"message": "at (695, 274)",
+				"image": "(TEXT:\"Confirm pickup\")",
+				"handlerLine": 5,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:48.943 +0530",
+				"scriptName": "ReadingRandomText.script",
+				"message": "at (1289, 233)",
+				"image": "shape",
+				"handlerLine": 7,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:48.947 +0530",
+				"message": "SEARCHRECTANGLE = [[745,284],[1489,263]]",
+				"scriptName": "ReadingRandomText.script",
+				"handlerLine": 11,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:53.965 +0530",
+				"message": "[745,263,1489,284]",
+				"scriptName": "ReadingRandomText.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:54.041 +0530",
+				"message": "(745,263,1489,284)",
+				"scriptName": "ReadingRandomText.script",
+				"handlerLine": 14,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 17:03:54.047 +0530",
+				"message": "RAND0M12$&@TEXT",
+				"scriptName": "ReadingRandomText.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"7.762\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-25 17:03:46 +0530\", Successes:\"1\", TestCase:\"ReadingRandomText.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 17:03:54.071 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 ReadingRandomText.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-25 17:03:54.129 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 17:03:46.308 +0530"
+}

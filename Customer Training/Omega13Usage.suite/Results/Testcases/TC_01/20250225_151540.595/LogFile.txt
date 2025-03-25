@@ -1,0 +1,7 @@
+﻿2025-02-25 15:15:40.606 +0530	START		Running Testcases/TC_01.script
+2025-02-25 15:15:40.816 +0530	typetext		[windowsKey]r	5	on_omega13operation	GeeksforGeeks/ToaccessallCourses.script
+2025-02-25 15:15:49.898 +0530	waitfor	(TEXT:"Type the name")	found at (117, 875)	1	on_overridecommand	C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2025-02-25 15:15:51.056 +0530	typetext		firefox https:\\geeksforgeeks.org[return]	7	on_omega13operation	GeeksforGeeks/ToaccessallCourses.script
+2025-02-25 15:15:54.783 +0530	click	(TEXT:"Courses")	at (60, 109)	1	on_overridecommand	C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2025-02-25 15:15:54.817 +0530	EndTestCase		(Duration:"14.205", Errors:"0", Exceptions:"0", StartTime:"2025-02-25 15:15:40 +0530", Successes:"1", TestCase:"Testcases/TC_01.script", Warnings:"0")
+2025-02-25 15:15:54.857 +0530	SUCCESS		Execution Time 0:00:14 Testcases/TC_01.script

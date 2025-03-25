@@ -1,0 +1,11 @@
+﻿
+
+// to execute the SQL statement directly.
+
+//We use executeSQL() function that needs 2 parameters. The database connection and the SQL statement(the statement should be in double quotes).
+
+set myDB to {type:"odbc", DSN:"Sudhee_ODBC", user:"root", password:"Sudhee@2001"}
+
+log executeSQL(myDB," SELECT * FROM sudheeksa.Marklist")
+
+//Th return type of executeSQL() is property Lists, not in the 

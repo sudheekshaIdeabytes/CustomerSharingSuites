@@ -1,0 +1,29 @@
+﻿
+
+to OpenApplication URL
+	set the webdriver's windowSize to "max"
+	set the webdriver's URL to URL
+end OpenApplication
+
+
+to Signin Username , password
+	click webXPath: "//a[@id='signin2']"
+	click webXPath: "//input[@id='sign-username']"
+	sendkeys Username
+	click webXPath: "//input[@id='sign-password']"
+	SendKeys Password
+	click webXPath: "//*[@id='signInModal']/div/div/div[3]/button[2]"
+end Signin
+
+
+
+to Login username , password
+	click webXPath: "//a[@id='login2']"
+	click webXPath: "//input[@id='loginusername']"
+	sendkeys Username
+	click webXPath: "//input[@id='loginpassword']"
+	sendkeys password
+	click webXPath: "//*[@id='logInModal']/div/div/div[3]/button[2]"
+end Login
+
+

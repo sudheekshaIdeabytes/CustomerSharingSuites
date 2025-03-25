@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Requirement.script",
+				"identifier": "START",
+				"timestamp": "2025-02-21 14:40:24.616 +0530"
+			},
+		{
+				"handlerName": "on_requirement",
+				"timestamp": "2025-02-21 14:40:24.716 +0530",
+				"message": "XMLdata",
+				"scriptName": "Requirement.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.132\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-02-21 14:40:24 +0530\", Successes:\"0\", TestCase:\"Requirement.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-21 14:40:24.757 +0530"
+			},
+		{
+				"message": "STInvalidTreeOperation: A tree node of type Text can't have any children -- Execution Time 0:00:00 Requirement.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-02-21 14:40:24.826 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-21 14:40:24.621 +0530"
+}

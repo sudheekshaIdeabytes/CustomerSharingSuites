@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="WorkingWithPatterns">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2025-03-06 12:13:55 +0530</FirstRun>
+  <LastRun>2025-03-11 15:43:14 +0530</LastRun>
+  <TotalTimeOnSuccess>132.090000</TotalTimeOnSuccess>
+ </script>
+ <script name="Keywords">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2025-03-11 17:04:45 +0530</FirstRun>
+  <LastRun>2025-03-11 17:26:24 +0530</LastRun>
+  <TotalTimeOnSuccess>6.337000</TotalTimeOnSuccess>
+ </script>
+</statistics>

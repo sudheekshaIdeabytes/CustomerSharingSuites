@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Usecases/Using Exceldata as input.script",
+				"identifier": "START",
+				"timestamp": "2025-02-20 11:27:18.026 +0530"
+			},
+		{
+				"message": "(Duration:\"0.002\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-02-20 11:27:18 +0530\", Successes:\"0\", TestCase:\"Usecases/Using Exceldata as input.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-20 11:27:18.037 +0530"
+			},
+		{
+				"message": "SenseTalk Compiler Exception: in using_exceldata_as_input:\\nSyntax Error at line 11: can't understand [end of line] at character 17 -- Execution Time 0:00:00 Usecases/Using Exceldata as input.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-02-20 11:27:18.292 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-20 11:27:18.032 +0530"
+}

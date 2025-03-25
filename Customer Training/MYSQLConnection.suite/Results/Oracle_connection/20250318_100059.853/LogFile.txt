@@ -1,0 +1,3 @@
+﻿2025-03-18 10:00:59.860 +0530	START		Running Oracle_connection.script
+2025-03-18 10:01:01.038 +0530	EndTestCase		(Duration:"1.175", Errors:"1", Exceptions:"0", StartTime:"2025-03-18 10:00:59 +0530", Successes:"0", TestCase:"Oracle_connection.script", Warnings:"0")
+2025-03-18 10:01:01.152 +0530	FAILURE		STDatabaseConnectionError: Failed to connect to ODBC database odbc:2 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied\n, SQLSTATE=28000 -- Execution Time 0:00:01 Oracle_connection.script

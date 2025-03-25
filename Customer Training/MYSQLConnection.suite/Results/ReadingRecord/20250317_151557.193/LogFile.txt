@@ -1,0 +1,7 @@
+﻿2025-03-17 15:15:57.209 +0530	START		Running ReadingRecord.script
+2025-03-17 15:15:58.527 +0530	Log		[{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:"Avinash", Total:286},{English:98, Id:102, Mathematics:96, Ranks:1, Science:97, StudentName:"Anil", Total:291},{English:90, Id:103, Mathematics:90, Ranks:2, Science:90, StudentName:"Seetha", Total:270},{English:30, Id:104, Mathematics:32, Ranks:2, Science:30, StudentName:"Geetha", Total:92},{English:95, Id:105, Mathematics:99, Ranks:2, Science:99, StudentName:"Bhoomi", Total:293}]	12	on_readingrecord	ReadingRecord.script
+2025-03-17 15:15:58.542 +0530	Log		Avinash	15	on_readingrecord	ReadingRecord.script
+2025-03-17 15:15:58.597 +0530	Log		{English:90, Id:103, Mathematics:90, Ranks:2, Science:90, StudentName:"Seetha", Total:270}	47	on_readingrecord	ReadingRecord.script
+2025-03-17 15:15:58.612 +0530	Log		{English:30, Id:104, Mathematics:32, Ranks:2, Science:30, StudentName:"Geetha", Total:92}	47	on_readingrecord	ReadingRecord.script
+2025-03-17 15:15:58.698 +0530	EndTestCase		(Duration:"1.482", Errors:"0", Exceptions:"0", StartTime:"2025-03-17 15:15:57 +0530", Successes:"1", TestCase:"ReadingRecord.script", Warnings:"0")
+2025-03-17 15:15:59.072 +0530	SUCCESS		Execution Time 0:00:01 ReadingRecord.script

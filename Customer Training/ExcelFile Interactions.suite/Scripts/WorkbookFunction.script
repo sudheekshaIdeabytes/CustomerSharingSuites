@@ -1,0 +1,33 @@
+﻿
+//The Workbook function is the starting point for direct access to an Excel spreadsheet
+
+//when the excel is stored in resource path
+set MyWorkbook to Workbook(ResourcePath("StudentMarkList.xlsx"))
+log MyWorkbook
+
+
+
+//Some of the properties of workbook function
+
+//give the number od worksheet count 
+put universal MyWorkbook's worksheetcount
+
+
+//give names of the sheets in the workbook
+put universal MyWorkbook.worksheetnames
+
+
+//when the excel is stored somewhere else in your local machine
+set MyWorkbook to workbook("C:\Users\sudheeksha.gunuputi\Documents\StudentMarkList.xlsx")
+log MyWorkbook
+
+
+
+
+
+
+
+ 
+
+
+

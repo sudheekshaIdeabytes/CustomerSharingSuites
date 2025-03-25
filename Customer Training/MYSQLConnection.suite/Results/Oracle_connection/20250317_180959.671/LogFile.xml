@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Oracle_connection_script" package="MYSQLConnection.suite" timestamp="2025-03-17 18:09:59.671 +0530"
+ tests="1"  failures="0" errors="0" time="0.493000">
+  <properties>
+   <property name="RunDate" value="2025-03-17 18:09:59.671 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Oracle_connection.script" assertions="1" status="success"  time="0.443">
+  </testcase>
+ </testsuite>
+</testsuites>

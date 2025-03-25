@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running CellFunction.script",
+				"identifier": "START",
+				"timestamp": "2025-02-20 10:27:49.507 +0530"
+			},
+		{
+				"handlerName": "on_cellfunction",
+				"timestamp": "2025-02-20 10:27:49.600 +0530",
+				"message": "Ankitha",
+				"scriptName": "CellFunction.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.107\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-20 10:27:49 +0530\", Successes:\"1\", TestCase:\"CellFunction.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-20 10:27:49.620 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 CellFunction.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-20 10:27:49.682 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-20 10:27:49.510 +0530"
+}

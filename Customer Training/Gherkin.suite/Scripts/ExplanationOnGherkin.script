@@ -1,0 +1,32 @@
+﻿(*
+
+When you first create a feature file , you will be popping up with basic and default syntax of feature file.
+
+The basic feature that I took.
+Feature: To login to Nopcommerce
+
+  Scenario: To login to Nopcommerce with right username and password
+    Given The application launches on the chrome browser
+    When Login option is avilable 
+    Then click on the login option 
+    And Enter Email address
+    And Enter password
+    And click on Login button
+
+
+
+Some points that I have observed while executing my first Gherkin file.
+
+-> The FEATURE file name and the EPF SCRIPT which has handlers should be same .
+-> Gherkin script is just like a text. we need to create handlers for each line to execute. Like given , when ,then and etc.
+-> If you haven't added any handler to the line yo will be getting a warning message.
+-> Advantage is, when any one of the line got error , the next line would be executed and at the end the error would popup.
+-> In the feature file , if any one of the line is failed it would appear in red color , if succeded then green color , and warings that would be orange color.
+-> Even you can select any one line and execute it.
+-> Make the feature file created and the script name where all the handlers are written should be same.
+-> Linking hanlders to the Gherkin script is nothing but creating a hadler with what ever line we have given.
+
+given log in to the nopcomerce application.   --- the hanlder for this is to handle log_in_to_the_nopcomerce_application.
+or else right click in the text into select "Show or generate script"
+
+*)

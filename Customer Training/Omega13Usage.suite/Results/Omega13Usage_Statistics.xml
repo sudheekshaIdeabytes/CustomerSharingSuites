@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="ReadingRandomText">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2025-02-25 16:06:29 +0530</FirstRun>
+  <LastRun>2025-02-25 18:23:45 +0530</LastRun>
+  <TotalTimeOnSuccess>106.636000</TotalTimeOnSuccess>
+ </script>
+ <script name="Testcases/TC_01">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2025-02-25 15:15:40 +0530</FirstRun>
+  <LastRun>2025-03-04 13:57:08 +0530</LastRun>
+  <TotalTimeOnSuccess>14.222000</TotalTimeOnSuccess>
+ </script>
+</statistics>

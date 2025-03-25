@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcase/TC01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-21 16:53:33.051 +0530"
+			},
+		{
+				"message": "(Duration:\"0.06\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-21 16:53:33 +0530\", Successes:\"1\", TestCase:\"Testcase/TC01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-21 16:53:33.116 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Testcase/TC01.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-21 16:53:33.174 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-21 16:53:33.054 +0530"
+}

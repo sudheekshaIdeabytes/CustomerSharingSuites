@@ -1,0 +1,4 @@
+﻿2025-03-21 16:53:13.011 +0530	START		Running Testcase/TC01.script
+2025-03-21 16:53:13.098 +0530	EndTestCase		(Duration:"0.08", Errors:"1", Exceptions:"0", StartTime:"2025-03-21 16:53:13 +0530", Successes:"0", TestCase:"Testcase/TC01.script", Warnings:"0")
+2025-03-21 16:53:13.157 +0530	FAILURE		STUnknownMessage: ERROR: No Such Command: 'openapplication' -- Execution Time 0:00:00 Testcase/TC01.script
+2025-03-21 16:53:13.298 +0530	FAILURE	Screen_Error_Web.png	STUnknownMessage: ERROR: No Such Command: 'openapplication' -- Execution Time 0:00:00 Testcase/TC01.script

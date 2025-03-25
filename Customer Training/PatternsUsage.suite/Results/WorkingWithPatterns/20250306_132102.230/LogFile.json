@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running WorkingWithPatterns.script",
+				"identifier": "START",
+				"timestamp": "2025-03-06 13:21:02.252 +0530"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:21:05.385 +0530",
+				"scriptName": "WorkingWithPatterns.script",
+				"message": "at (85, 143)",
+				"image": "(TEXT:\"call\")",
+				"handlerLine": 4,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:21:05.398 +0530",
+				"message": "SEARCHRECTANGLE = [105,133,285,153]",
+				"scriptName": "WorkingWithPatterns.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:21:05.498 +0530",
+				"message": "(105,133,285,153)",
+				"scriptName": "WorkingWithPatterns.script",
+				"handlerLine": 13,
+				"identifier": "readtext"
+			},
+		{
+				"message": "(Duration:\"3.286\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-06 13:21:02 +0530\", Successes:\"1\", TestCase:\"WorkingWithPatterns.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-06 13:21:05.550 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:03 WorkingWithPatterns.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-06 13:21:05.726 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-06 13:21:02.261 +0530"
+}

@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running WorkingWithPatterns.script",
+				"identifier": "START",
+				"timestamp": "2025-03-06 12:23:00.595 +0530"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 12:23:01.963 +0530",
+				"scriptName": "WorkingWithPatterns.script",
+				"message": "at (85, 143)",
+				"image": "(TEXT:\"call\")",
+				"handlerLine": 4,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 12:23:01.970 +0530",
+				"message": "SEARCHRECTANGLE = [105,133,285,153]",
+				"scriptName": "WorkingWithPatterns.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 12:23:07.039 +0530",
+				"scriptName": "WorkingWithPatterns.script",
+				"message": "Could Not Open Image: 105",
+				"image": "105",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"6.457\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-03-06 12:23:00 +0530\", Successes:\"0\", TestCase:\"WorkingWithPatterns.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-06 12:23:07.057 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: readtext Error - Could Not Open Image: 105 -- Execution Time 0:00:06 WorkingWithPatterns.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-06 12:23:07.348 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-06 12:23:00.599 +0530"
+}

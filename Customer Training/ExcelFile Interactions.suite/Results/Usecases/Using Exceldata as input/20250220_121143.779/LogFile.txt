@@ -1,0 +1,14 @@
+﻿2025-02-20 12:11:43.817 +0530	START		Running Usecases/Using Exceldata as input.script
+2025-02-20 12:11:44.262 +0530	typetext		[windowsKey]r	9	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:11:52.018 +0530	waitfor	(TEXT:"Type the name")	found at (117, 883)	10	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:11:53.467 +0530	typetext		Chrome https://demo.nopcommerce.com[return]	15	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:11:56.121 +0530	waitfor	(TEXT:"Welcome")	found at (841, 386)	16	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:11:56.129 +0530	LogSuccess		Opened Nopcommerce store in chrome browser	17	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:11:59.065 +0530	click	(TEXT:"Log in")	at (1279, 108)	20	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:16.252 +0530	click	(TEXT:"Email")	at (1051, 528)	26	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:17.835 +0530	typetext		Egpplantuser@gmail.com	27	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:21.048 +0530	click	(TEXT:"Password")	at (1038, 583)	29	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:21.972 +0530	typetext		Testing	30	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:25.098 +0530	click	(TEXT:"LOG IN")	at (1256, 725)	32	on_using_exceldata_as_input	Usecases/Using Exceldata as input.script
+2025-02-20 12:12:25.200 +0530	EndTestCase		(Duration:"41.36", Errors:"0", Exceptions:"0", StartTime:"2025-02-20 12:11:43 +0530", Successes:"1", TestCase:"Usecases/Using Exceldata as input.script", Warnings:"0")
+2025-02-20 12:12:25.436 +0530	SUCCESS		Execution Time 0:00:41 Usecases/Using Exceldata as input.script

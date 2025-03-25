@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running RecordIterator.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 13:31:45.235 +0530"
+			},
+		{
+				"handlerName": "on_recorditerator",
+				"timestamp": "2025-03-17 13:31:45.729 +0530",
+				"message": "{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:\"Avinash\", Total:286}",
+				"scriptName": "RecordIterator.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.504\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-17 13:31:45 +0530\", Successes:\"1\", TestCase:\"RecordIterator.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 13:31:45.743 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 RecordIterator.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-17 13:31:45.829 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 13:31:45.238 +0530"
+}

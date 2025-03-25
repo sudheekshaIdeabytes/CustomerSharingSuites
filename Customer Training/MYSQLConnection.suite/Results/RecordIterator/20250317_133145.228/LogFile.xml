@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="RecordIterator_script" package="MYSQLConnection.suite" timestamp="2025-03-17 13:31:45.228 +0530"
+ tests="1"  failures="0" errors="0" time="0.514000">
+  <properties>
+   <property name="RunDate" value="2025-03-17 13:31:45.228 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="RecordIterator.script" assertions="1" status="success"  time="0.504">
+  </testcase>
+ </testsuite>
+</testsuites>

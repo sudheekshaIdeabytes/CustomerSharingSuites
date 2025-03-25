@@ -1,0 +1,44 @@
+﻿
+
+
+to handle Omega13Operation
+	
+	start using Omega13
+	
+	typetext windowsKey , "r"
+	waitfor 20 , text:"Type the name"
+	typetext "Chrome" && "https:\\geeksforgeeks.org" , return
+	wait 2
+	click text : "For Students"
+	click text :"Placement Preparation Course"
+	
+	stop using Omega13 
+	
+end Omega13Operation
+
+to CaptureImageLocation textfield
+	put Imagelocation(text:textfield) 
+end CaptureImageLocation
+
+
+to handle Replicatingtheissue
+	start using Omega13
+	
+	//set studentsLoc to Imagelocation(text:"For Student")
+	
+	//put Imagelocation(text:"For Student") into studentsLoc    --getting error for the Imageloaction function.
+	
+	//set the searchrectangle to [268,203,435,498]
+	//put imagefound(text:"Students")  -- not even triggerting the attempt recovery
+	
+	//put imagefound(text:"Students") into bool -- not even triggerting the attempt recovery
+	
+	CaptureImageLocation "Welcome"  --not even triggerting the attempt recovery
+	
+	//click text:"Students"  -- triggering the workaround
+	
+	//log the SearchRectangle
+	
+	stop using Omega13
+	
+end Replicatingtheissue

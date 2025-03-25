@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WorkingWithPatterns_script" package="PatternsUsage.suite" timestamp="2025-03-06 13:19:41.074 +0530"
+ tests="1"  failures="0" errors="0" time="3.551000">
+  <properties>
+   <property name="RunDate" value="2025-03-06 13:19:41.074 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="WorkingWithPatterns.script" assertions="1" status="success"  time="3.491">
+  </testcase>
+ </testsuite>
+</testsuites>

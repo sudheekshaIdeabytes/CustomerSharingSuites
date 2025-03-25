@@ -1,0 +1,3 @@
+﻿2025-03-17 12:23:42.488 +0530	START		Running RecordVSrecords.script
+2025-03-17 12:23:43.033 +0530	EndTestCase		(Duration:"0.541", Errors:"0", Exceptions:"0", StartTime:"2025-03-17 12:23:42 +0530", Successes:"1", TestCase:"RecordVSrecords.script", Warnings:"0")
+2025-03-17 12:23:43.125 +0530	SUCCESS		Execution Time 0:00:00 RecordVSrecords.script

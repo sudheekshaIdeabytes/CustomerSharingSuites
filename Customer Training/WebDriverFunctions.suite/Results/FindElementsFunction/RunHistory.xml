@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="FindElementsFunction">
+ <run>
+  <RunDate>2025-03-21 12:38:36.481 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.517000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250321_123836.481/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>FailedToFindElement -- Couldn&#x27;t find element identified by {WebID:&quot;article&quot;} -- Response code 404 received from Selenium Server. {&quot;error&quot;: &quot;no such element&quot;,&quot;message&quot;: &quot;no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#article&quot;}&quot;}.</ErrorMessage>
+ </run>
+</runHistory>

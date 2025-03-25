@@ -1,0 +1,6 @@
+﻿2025-03-06 13:00:05.018 +0530	START		Running WorkingWithPatterns.script
+2025-03-06 13:00:06.412 +0530	imagelocation	(TEXT:"call")	at (85, 143)	4	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:00:06.418 +0530	set		SEARCHRECTANGLE = [105,133,285,153]	6	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:00:11.433 +0530	Exception		Image Property List did not contain "ImageName" property	12	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:00:11.453 +0530	EndTestCase		(Duration:"6.43", Errors:"1", Exceptions:"1", StartTime:"2025-03-06 13:00:05 +0530", Successes:"0", TestCase:"WorkingWithPatterns.script", Warnings:"0")
+2025-03-06 13:00:11.746 +0530	FAILURE	Screen_Error.png	Error Running Script Command: readtext Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:06 WorkingWithPatterns.script

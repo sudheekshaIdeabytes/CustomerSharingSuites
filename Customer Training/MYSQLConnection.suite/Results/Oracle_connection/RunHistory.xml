@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Oracle_connection">
+ <run>
+  <RunDate>2025-03-17 18:09:59.671 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.493000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_180959.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:24:38.747 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.807000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_182438.747/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:1 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:25:16.436 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.365000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_182516.436/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:2 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:29:09.754 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.400000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_182909.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:3 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:29:39.309 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.507000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_182939.309/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:4 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:29:58.972 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.451000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_182958.972/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:5 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 18:33:12.095 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.480000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_183312.095/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:6 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 09:55:54.407 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.820000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_095554.407/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:1 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:00:59.853 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.184000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_100059.853/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:2 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+, SQLSTATE=28000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:01:57.699 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.165000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_100157.699/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseConnectionError -- Failed to connect to ODBC database odbc:3 Reason: [Oracle][ODBC][Ora]ORA-28009: connection as SYS should be as SYSDBA or SYSOPER
+, SQLSTATE=HY000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:02:11.588 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.206000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_100211.588/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:06:15.659 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.174000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_100615.659/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:41:24.022 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.138000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_104124.022/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 10:41:33.652 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.158000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_104133.652/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:10:35.589 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.135000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_111035.589/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:10:48.201 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.130000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250318_111048.201/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:11:04.563 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.169000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_111104.563/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:11:41.242 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.152000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_111141.242/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:18:31.579 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.152000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_111831.579/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:23:00.668 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.163000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_112300.668/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:23:11.430 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.134000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_112311.430/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:40:02.664 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.519000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_114002.664/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:40:34.488 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.183000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_114034.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 11:40:58.131 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.402000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_114058.131/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-18 18:22:18.228 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.228000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250318_182218.228/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist
+, SQLSTATE=42S02</ErrorMessage>
+ </run>
+</runHistory>

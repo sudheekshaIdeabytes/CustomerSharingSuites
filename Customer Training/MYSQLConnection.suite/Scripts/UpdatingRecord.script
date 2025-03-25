@@ -1,0 +1,14 @@
+﻿
+
+// To update a particualr value of already existing record.
+
+
+set MyDB to {type:"ODBC",DSN:"Sudhee_ODBC",user:"root",password:"Sudhee@2001"}
+
+set mytable to table "sudheeksa.marklist" of myDB
+
+set RecordtobeUpdated to the record of MyTable where Id is 101
+
+add 10 to RecordtobeUpdated's English //
+
+put "Bunny" into RecordtobeUpdated's StudentName

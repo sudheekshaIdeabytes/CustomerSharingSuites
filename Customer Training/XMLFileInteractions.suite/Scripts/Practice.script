@@ -1,0 +1,147 @@
+﻿
+
+set XMLdata to {{
+<order id ="001">
+  <customer name="Janet Brown"/>
+  <product code="prod345" size="6">
+    <quantity>3</quantity>
+    <amount>23.45</amount>
+  </product>
+</order>
+<order id ="002">
+  <customer name="Eggplant"/>
+  <product code="prod346" size="10">
+    <quantity>10</quantity>
+    <amount>12345</amount>
+  </product>
+</order>
+}}
+log XMLdata
+put -
+
+logsuccess "XML data as tree"
+
+put XMLdata as tree into universal XMLasTree
+
+log universal XMLasTree 
+
+put -
+
+
+
+LogSuccess "Accessing elements"
+
+put item 1 of universal XMLasTree
+
+put item 2 of universal XMLasTree
+
+put item 2 of item 2 of universal XMLasTree
+
+
+logsuccess "updating the attribute value "
+
+put 50 into  item 1 of item 2 of item 2 of universal XMLasTree
+
+log universal XMLasTree
+
+
+set XMLdata to {{
+<Orderdetails>
+<order id ="001">
+  <customer name="Janet Brown"/>
+  <product code="prod345" size="6">
+    <quantity>3</quantity>
+    <amount>23.45</amount>
+  </product>
+</order>
+<order id ="002">
+  <customer name="Eggplant"/>
+  <product code="prod346" size="10">
+    <quantity>10</quantity>
+    <amount>12345</amount>
+  </product>
+</order>
+</Orderdetails>
+}}
+
+put XMLdata as tree into universal Orders
+
+put universal orders
+
+put -
+
+logsuccess  "Xpath using node"
+
+put node "*/order" of universal Orders 
+
+put all nodes "*/order" of universal Orders 
+
+put every node "*/order" of universal Orders 
+
+
+LogSuccess "Node path"
+
+put item 1 of universal Orders
+
+put nodepath of item 1 of item 2 of item 2 of universal Orders
+
+put node "/Orderdetails/order[2]/product/quantity" of universal Orders
+
+set XMLdata to {{
+<Orderdetails>
+<order id ="001">
+  <customer name="Janet Brown"/>
+  <product code="prod345" size="6">
+    <quantity>3</quantity>
+    <amount>23.45</amount>
+  </product>
+</order>
+<order id ="002">
+  <customer name="Eggplant"/>
+  <product code="prod346" size="10">
+    <quantity>10</quantity>
+    <amount>12345</amount>
+  </product>
+</order>
+</Orderdetails>
+}}
+
+put XMLdata as tree into universal Orders
+
+log universal OrderS
+
+
+
+
+
+
+set the SearchRectangle to [287,329,1147,751]
+log RemoteScreenRectangle()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

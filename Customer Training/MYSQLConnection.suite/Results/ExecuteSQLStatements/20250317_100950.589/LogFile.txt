@@ -1,0 +1,4 @@
+﻿2025-03-17 10:09:50.604 +0530	START		Running ExecuteSQLStatements.script
+2025-03-17 10:09:51.706 +0530	Log		[{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:"Avinash", Total:286},{English:98, Id:102, Mathematics:96, Ranks:1, Science:97, StudentName:"Anil", Total:291},{English:90, Id:103, Mathematics:90, Ranks:2, Science:90, StudentName:"Seetha", Total:270},{English:30, Id:104, Mathematics:32, Ranks:2, Science:30, StudentName:"Geetha", Total:92},{English:95, Id:105, Mathematics:99, Ranks:2, Science:99, StudentName:"Bhoomi", Total:293}]	9	on_executesqlstatements	ExecuteSQLStatements.script
+2025-03-17 10:09:51.767 +0530	EndTestCase		(Duration:"1.152", Errors:"0", Exceptions:"0", StartTime:"2025-03-17 10:09:50 +0530", Successes:"1", TestCase:"ExecuteSQLStatements.script", Warnings:"0")
+2025-03-17 10:09:51.992 +0530	SUCCESS		Execution Time 0:00:01 ExecuteSQLStatements.script

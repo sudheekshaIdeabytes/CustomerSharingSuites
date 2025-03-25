@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running ZZZZZZZZZZ.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 15:43:14.681 +0530"
+			},
+		{
+				"handlerName": "on_zzzzzzzzzz",
+				"timestamp": "2025-03-17 15:43:16.313 +0530",
+				"message": "{idTesting:2}",
+				"scriptName": "ZZZZZZZZZZ.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"1.669\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-17 15:43:14 +0530\", Successes:\"0\", TestCase:\"ZZZZZZZZZZ.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 15:43:16.360 +0530"
+			},
+		{
+				"message": "STDatabaseException: Can't update record values -- table sample.testing has no primary key -- Execution Time 0:00:01 ZZZZZZZZZZ.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-17 15:43:16.595 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 15:43:14.688 +0530"
+}

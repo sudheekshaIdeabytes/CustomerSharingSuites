@@ -1,0 +1,11 @@
+﻿(*
+
+As Known Eggplant supports External file interaction , means that able to manipulate data hosted externally. One of it is Excel as workbook.
+
+These Excels can be used in many ways. To give inputs to testcases, To store the results of the test cases etc based on the requirement.
+
+This will make the job of Bussiness Expertise easy. They no nned to have knowledge on the tool(Eggplant) or language (SenseTalk). They can chage inputs or see reults.
+
+This suite will explain how we can use this feature of Eggplant interacting with Excel can be used.
+
+*)

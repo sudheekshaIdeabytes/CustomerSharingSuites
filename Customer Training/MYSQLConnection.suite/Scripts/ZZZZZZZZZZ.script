@@ -1,0 +1,14 @@
+﻿
+
+
+set MyDB to {type:"ODBC",DSN:"Sudhee_ODBC",user:"root",password:"Sudhee@2001"}
+
+set MyTable to table "sample.testing" of MyDB
+
+//add record {idTesting:3} to  MyTable
+
+set rec to the record of MyTable where idTesting = 2
+
+log rec
+
+put 23123 into rec's idTesting

@@ -1,0 +1,26 @@
+﻿2025-03-03 16:27:49.344 +0530	START		Running Untitled.feature
+2025-03-03 16:27:49.408 +0530	typetext		[windowsKey]r	2	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:27:51.892 +0530	typetext		chrome https:\\demo.nopcommerce.com\ --start --maximize[return]	3	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:28:20.577 +0530	Exception	(TEXT:"Welcome to store")	Unable To Find Any Image On Screen "(TEXT:"Welcome to store")" within 20.00 seconds. Text not found.	4	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:28:20.587 +0530	LogError		Error at step: The application launches on the chrome browser	4	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:20.594 +0530	EndTestCase		(Duration:"31.244", Errors:"1", Exceptions:"1", StartTime:"2025-03-03 16:27:49 +0530", Successes:"0", TestCase:"The application launches on the chrome browser", Warnings:"0")
+2025-03-03 16:28:22.342 +0530	imagefound	(TEXT:"Log in")	found at (1278, 108)	2	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:28:22.457 +0530	click		at (1278, 108)	4	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:28:22.465 +0530	LogSuccess		Start Time: 16:28:20, Stop Time: 16:28:22 step: Login option is avilable	5	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:22.475 +0530	EndTestCase		(Duration:"1.874", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:28:20 +0530", Successes:"1", TestCase:"Login option is avilable", Warnings:"0")
+2025-03-03 16:28:22.485 +0530	LogWarning		Execution issue at step: click on the login option	6	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:22.494 +0530	EndTestCase		(Duration:"0.009", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:28:22 +0530", Successes:"0", TestCase:"click on the login option", Warnings:"1")
+2025-03-03 16:28:27.911 +0530	click	(TEXT:"Email")	at (1051, 528)	2	on_textentry	common.script
+2025-03-03 16:28:29.163 +0530	typetext		Sample@gmail.com	3	on_textentry	common.script
+2025-03-03 16:28:31.711 +0530	LogSuccess		Start Time: 16:28:22, Stop Time: 16:28:31 step: Enter Email address	7	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:31.718 +0530	EndTestCase		(Duration:"9.216", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:28:22 +0530", Successes:"1", TestCase:"Enter Email address", Warnings:"0")
+2025-03-03 16:28:33.022 +0530	click	(TEXT:"password")	at (1038, 603)	2	on_textentry	common.script
+2025-03-03 16:28:34.101 +0530	typetext		Welcome@123	3	on_textentry	common.script
+2025-03-03 16:28:34.109 +0530	LogSuccess		Start Time: 16:28:31, Stop Time: 16:28:34 step: Enter password	8	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:34.115 +0530	EndTestCase		(Duration:"2.392", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:28:31 +0530", Successes:"1", TestCase:"Enter password", Warnings:"0")
+2025-03-03 16:28:35.794 +0530	click	(TEXT:"LOG IN")	at (1278, 108)	2	on_click_on_login_button	Untitled.script<SOURCE>
+2025-03-03 16:28:35.808 +0530	LogSuccess		Start Time: 16:28:34, Stop Time: 16:28:35 step: click on Login button	9	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:28:35.815 +0530	EndTestCase		(Duration:"1.693", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:28:34 +0530", Successes:"1", TestCase:"click on Login button", Warnings:"0")
+2025-03-03 16:28:35.822 +0530	EndTestCase		(Duration:"46.473", Errors:"2", Exceptions:"1", StartTime:"2025-03-03 16:27:49 +0530", Successes:"4", TestCase:"Untitled.feature", Warnings:"1")
+2025-03-03 16:28:36.132 +0530	Error Screen	C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/Gherkin.suite/Results/Untitled-Feature/20250303_162749.337/Screen_Error.png	CapturedErrorScreenshot	EA2AF504-A66F-4B0B-588B-2E28E4EF5F9D
+2025-03-03 16:28:36.137 +0530	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 6 steps (1 failed, 1 skipped, 4 passed) Execution Time 0:00:46

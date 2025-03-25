@@ -1,0 +1,3 @@
+﻿2025-03-17 15:40:42.302 +0530	START		Running ZZZZZZZZZZ.script
+2025-03-17 15:40:43.687 +0530	EndTestCase		(Duration:"1.371", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 15:40:42 +0530", Successes:"0", TestCase:"ZZZZZZZZZZ.script", Warnings:"0")
+2025-03-17 15:40:43.994 +0530	FAILURE		ST_ODBC_ResultError: [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Unknown column 'id' in 'where clause', SQLSTATE=42S22 -- Execution Time 0:00:01 ZZZZZZZZZZ.script

@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running WorksheetFunction.script",
+				"identifier": "START",
+				"timestamp": "2025-02-20 10:18:44.421 +0530"
+			},
+		{
+				"handlerName": "on_worksheetfunction",
+				"timestamp": "2025-02-20 10:18:44.492 +0530",
+				"message": "Worksheet(\"Sheet1\") of Workbook(\"C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/ExcelFile Interactions.suite/Resources/StudentMarkList.xlsx\")",
+				"scriptName": "WorksheetFunction.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_worksheetfunction",
+				"timestamp": "2025-02-20 10:18:45.629 +0530",
+				"message": "Sheet1",
+				"scriptName": "WorksheetFunction.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"1.271\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-20 10:18:44 +0530\", Successes:\"1\", TestCase:\"WorksheetFunction.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-20 10:18:45.698 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 WorksheetFunction.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-20 10:18:45.751 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-20 10:18:44.425 +0530"
+}

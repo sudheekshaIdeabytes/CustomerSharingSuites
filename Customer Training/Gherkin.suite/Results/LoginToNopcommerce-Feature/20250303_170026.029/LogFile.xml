@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LoginToNopcommerce_feature" package="Gherkin.suite" timestamp="2025-03-03 17:00:26.029 +0530"
+ tests="7"  failures="1" errors="0" time="0.067000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 17:00:26.029 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="0" status="(null)"  time="0.005">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="0" status="(null)"  time="0.004">
+  </testcase>
+  <testcase name="click on the login option" assertions="0" status="(null)"  time="0.005">
+  </testcase>
+  <testcase name="Enter Email address" assertions="0" status="(null)"  time="0.003">
+  </testcase>
+  <testcase name="Enter password" assertions="0" status="(null)"  time="0.004">
+  </testcase>
+  <testcase name="click on Login button" assertions="0" status="(null)"  time="0.003">
+  </testcase>
+  <testcase name="LoginToNopcommerce.feature" assertions="1" status="success"  time="0.057">
+    <failure type="FAILURE" message="1 scenarios (1 failed, 0 passed) 6 steps (0 failed, 6 skipped, 0 passed) Execution Time 0:00:00" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Untitled-Feature">
+ <run>
+  <RunDate>2025-03-03 16:01:35.528 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.181000</Duration>
+  <Errors>6</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>5</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250303_160135.528/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:02:53.151 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>62.288000</Duration>
+  <Errors>5</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>4</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250303_160253.151/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:09:20.700 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>50.262000</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20250303_160920.700/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Welcome to store&quot;)&quot; within 20.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:27:49.337 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>46.484000</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20250303_162749.337/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Welcome to store&quot;)&quot; within 20.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:29:13.739 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.415000</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20250303_162913.739/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidBoolean -- Value &#x27;You are in nopcom...&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:30:06.846 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>18.574000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20250303_163006.846/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:36:26.524 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>11.810000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250303_163626.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:37:20.560 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>9.812000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250303_163720.560/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:37:37.569 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>10.651000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250303_163737.569/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 16:39:58.261 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.071000</Duration>
+  <Errors>0</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250303_163958.261/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-03 17:00:26.029 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.067000</Duration>
+  <Errors>0</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250303_170026.029/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-04 14:42:35.887 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.103000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250304_144235.887/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

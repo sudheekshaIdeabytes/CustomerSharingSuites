@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running DeleteRecord.script",
+				"identifier": "START",
+				"timestamp": "2025-03-14 16:55:04.197 +0530"
+			},
+		{
+				"message": "(Duration:\"0.114\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-14 16:55:04 +0530\", Successes:\"1\", TestCase:\"DeleteRecord.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-14 16:55:04.321 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 DeleteRecord.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-14 16:55:04.457 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-14 16:55:04.203 +0530"
+}

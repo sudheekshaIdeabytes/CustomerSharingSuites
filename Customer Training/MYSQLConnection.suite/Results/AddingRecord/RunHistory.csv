@@ -1,0 +1,13 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-14 16:09:14.558 +0530,"Failure",0:00:00,1,0,0,"20250314_160914.558/LogFile.txt","","STTableError -- Value can't become a database table: ",0
+2025-03-14 16:10:17.586 +0530,"Failure",0:00:00,1,0,0,"20250314_161017.586/LogFile.txt","","STTableError -- Value can't become a database table: ",0
+2025-03-14 16:11:18.980 +0530,"Success",0:00:01,0,0,0,"20250314_161118.980/LogFile.txt","","",1
+2025-03-14 16:36:09.171 +0530,"Success",0:00:00,0,0,0,"20250314_163609.171/LogFile.txt","","",1
+2025-03-14 16:36:50.361 +0530,"Success",0:00:01,0,0,0,"20250314_163650.361/LogFile.txt","","",1
+2025-03-14 16:37:20.333 +0530,"Success",0:00:01,0,0,0,"20250314_163720.333/LogFile.txt","","",1
+2025-03-14 16:38:34.413 +0530,"Failure",0:00:01,1,0,0,"20250314_163834.413/LogFile.txt","","ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry '104' for key 'marklist.PRIMARY', SQLSTATE=23000",0
+2025-03-14 16:39:45.676 +0530,"Success",0:00:00,0,0,0,"20250314_163945.676/LogFile.txt","","",1
+2025-03-14 16:58:23.803 +0530,"Success",0:00:01,0,0,0,"20250314_165823.803/LogFile.txt","","",1
+2025-03-14 17:03:55.056 +0530,"Success",0:00:01,0,0,0,"20250314_170355.056/LogFile.txt","","",1
+2025-03-17 14:08:34.135 +0530,"Failure",0:00:00,1,0,0,"20250317_140834.135/LogFile.txt","","ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry '106' for key 'marklist.PRIMARY', SQLSTATE=23000",0
+2025-03-17 14:09:12.191 +0530,"Success",0:00:00,0,0,0,"20250317_140912.191/LogFile.txt","","",1

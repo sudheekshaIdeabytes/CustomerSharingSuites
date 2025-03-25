@@ -1,0 +1,130 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcases/TC_01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-04 17:33:49.199 +0530"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-03-04 17:33:49.546 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 17:33:52.294 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-03-04 17:33:54.606 +0530",
+				"message": "Chrome https:\\\\geeksforgeeks.org[return]",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 17:34:23.271 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"For Students\")\". Text not found.",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:34:23.291 +0530",
+				"message": "Entered the AttemptRecovery",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:34:25.009 +0530",
+				"scriptName": "AttemptRecovery.script",
+				"message": "found at (60, 110)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:34:25.114 +0530",
+				"message": "at (60, 110)",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 17:34:27.591 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "at (71, 408)",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 17:34:59.479 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Placement Preparation Course\")\". Text not found.",
+				"image": "(TEXT:\"Placement Preparation Course\")",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:34:59.500 +0530",
+				"message": "Entered the AttemptRecovery",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:35:01.407 +0530",
+				"scriptName": "AttemptRecovery.script",
+				"message": "found at (60, 110)",
+				"image": "(TEXT:\"Courses\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_attemptrecovery",
+				"timestamp": "2025-03-04 17:35:01.521 +0530",
+				"message": "at (60, 110)",
+				"scriptName": "AttemptRecovery.script",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-03-04 17:35:09.438 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"80.332\", Errors:\"1\", Exceptions:\"3\", StartTime:\"2025-03-04 17:33:49 +0530\", Successes:\"0\", TestCase:\"Testcases/TC_01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-04 17:35:09.541 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:20 Testcases/TC_01.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-03-04 17:35:09.558 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-04 17:33:49.207 +0530"
+}

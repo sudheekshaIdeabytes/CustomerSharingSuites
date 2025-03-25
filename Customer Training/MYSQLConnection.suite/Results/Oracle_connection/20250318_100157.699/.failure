@@ -1,0 +1,1 @@
+2025-03-18 10:01:57.699 +0530,Failure,0:00:00,1,0,0,20250318_100157.699/LogFile.txt,"","STDatabaseConnectionError -- Failed to connect to ODBC database odbc:3 Reason: [Oracle][ODBC][Ora]ORA-28009: connection as SYS should be as SYSDBA or SYSOPER\n, SQLSTATE=HY000",0

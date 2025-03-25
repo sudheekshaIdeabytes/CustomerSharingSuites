@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="CellFunction">
+ <run>
+  <RunDate>2025-02-20 10:27:38.036 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.127000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250220_102738.036/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>WorkbookWriteError -- Error (can&#x27;t open file for writing) saving workbook to file C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/ExcelFile Interactions.suite/Resources/StudentMarkList.xlsx</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-02-20 10:27:49.499 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.119000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250220_102749.499/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-02-20 10:31:23.779 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.526000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250220_103123.779/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

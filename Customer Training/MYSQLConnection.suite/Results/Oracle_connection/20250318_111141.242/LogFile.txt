@@ -1,0 +1,3 @@
+﻿2025-03-18 11:11:41.248 +0530	START		Running Oracle_connection.script
+2025-03-18 11:11:41.396 +0530	EndTestCase		(Duration:"0.143", Errors:"1", Exceptions:"0", StartTime:"2025-03-18 11:11:41 +0530", Successes:"0", TestCase:"Oracle_connection.script", Warnings:"0")
+2025-03-18 11:11:41.509 +0530	FAILURE		ST_ODBC_ResultError: [Oracle][ODBC][Ora]ORA-00942: table or view does not exist\n, SQLSTATE=42S02 -- Execution Time 0:00:00 Oracle_connection.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Requirement_script" package="XMLFileInteractions.suite" timestamp="2025-02-21 13:58:22.393 +0530"
+ tests="1"  failures="0" errors="0" time="0.104000">
+  <properties>
+   <property name="RunDate" value="2025-02-21 13:58:22.393 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Requirement.script" assertions="1" status="success"  time="0.087">
+  </testcase>
+ </testsuite>
+</testsuites>

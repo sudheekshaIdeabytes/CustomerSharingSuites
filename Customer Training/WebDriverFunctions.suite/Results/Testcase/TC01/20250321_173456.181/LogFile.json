@@ -1,0 +1,138 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcase/TC01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-21 17:34:56.188 +0530"
+			},
+		{
+				"handlerName": "on_openapplication",
+				"timestamp": "2025-03-21 17:34:57.565 +0530",
+				"message": "https://demoblaze.com on {blendScaledScreen:False, Browser:\"chrome\", colorDepth:0, height:768, Host:\"127.0.0.1\", model:\"Chrome\", Name:\"WebdriverChrome\", overrideName:\"WebdriverChrome\", Port:4444, scaleRemoteScreen:0, skipAvailabilityCheck:False, temporary:False, type:\"WebDriver\", username:\"\", width:1024}",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 3,
+				"identifier": "Set URL"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:58.138 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1183, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"signin2\", Name:\"\", Text:\"Sign up\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1149.925049,17.262501,1217.925049,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:59.398 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (759, 170)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-username\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[525.400024,151.587509,993.400024,189.587509]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:59.460 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:35:00.588 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (759, 269)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-password\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[525.400024,250.175003,993.400024,288.175003]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:35:00.664 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:35:01.821 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (949, 391)",
+				"image": "<WebElement with TagName:\"button\", ID:\"\", Name:\"\", Text:\"Sign up\", Class:\"btn btn-primary\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[905.924988,372.5625,993.924988,410.5625]>",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:04.519 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1121, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"login2\", Name:\"\", Text:\"Log in\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1092.075073,17.262501,1150.075073,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:05.704 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginusername\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:05.751 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:06.842 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginpassword\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:06.887 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:35:10.004 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "Web Element Not Found: \"<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>\"",
+				"image": "<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"13.85\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-03-21 17:34:56 +0530\", Successes:\"0\", TestCase:\"Testcase/TC01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-21 17:35:10.043 +0530"
+			},
+		{
+				"message": "WebElement Not Found: click Error - \\nUnable to find the WebElement '<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>' on the page. -- Execution Time 0:00:13 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 17:35:10.096 +0530"
+			},
+		{
+				"image": "Screen_Error_Web.png",
+				"message": "WebElement Not Found: click Error - \\nUnable to find the WebElement '<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>' on the page. -- Execution Time 0:00:13 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 17:35:10.340 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-21 17:34:56.191 +0530"
+}

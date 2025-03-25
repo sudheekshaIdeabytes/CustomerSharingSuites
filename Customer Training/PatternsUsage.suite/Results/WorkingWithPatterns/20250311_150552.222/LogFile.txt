@@ -1,0 +1,6 @@
+﻿2025-03-11 15:05:52.236 +0530	START		Running WorkingWithPatterns.script
+2025-03-11 15:05:53.248 +0530	imagelocation	(TEXT:"call")	at (691, 242)	4	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-11 15:05:53.255 +0530	set		SEARCHRECTANGLE = [711,232,891,252]	6	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-11 15:05:58.295 +0530	readtext		(711,232,891,252)	13	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-11 15:05:58.377 +0530	EndTestCase		(Duration:"6.133", Errors:"0", Exceptions:"0", StartTime:"2025-03-11 15:05:52 +0530", Successes:"1", TestCase:"WorkingWithPatterns.script", Warnings:"0")
+2025-03-11 15:05:58.429 +0530	SUCCESS		Execution Time 0:00:06 WorkingWithPatterns.script

@@ -1,0 +1,20 @@
+﻿
+
+//cell() - gives access to the specific cell values and properties.
+
+//it can be called by two parameters , worksheet reference and cell identifier
+//the cell identifier can be cell name (like a2,g5 etc) or row,col values(like (2,5) ,(4,12))
+
+
+//To access cell
+put cell(B10) of universal StudentmarkList
+
+//To edit/Update  a cell
+put "Ankitha" into cell(B10) of universal StudentmarkList
+log cell(B10) of universal StudentmarkList
+
+
+//Delete a cell data
+put empty into cell(B10) of universal StudentmarkList
+log cell(universal StudentmarkList,B10)
+

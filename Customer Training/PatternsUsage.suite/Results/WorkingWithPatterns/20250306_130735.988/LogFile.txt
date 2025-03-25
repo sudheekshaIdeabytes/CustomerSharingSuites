@@ -1,0 +1,6 @@
+﻿2025-03-06 13:07:36.000 +0530	START		Running WorkingWithPatterns.script
+2025-03-06 13:07:37.414 +0530	imagelocation	(TEXT:"call")	at (85, 143)	4	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:07:37.423 +0530	set		SEARCHRECTANGLE = [105,133,285,153]	6	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:07:42.464 +0530	readtext		(105,133,285,153)	10	on_workingwithpatterns	WorkingWithPatterns.script
+2025-03-06 13:07:42.506 +0530	EndTestCase		(Duration:"6.501", Errors:"1", Exceptions:"0", StartTime:"2025-03-06 13:07:36 +0530", Successes:"0", TestCase:"WorkingWithPatterns.script", Warnings:"0")
+2025-03-06 13:07:42.777 +0530	FAILURE	Screen_Error.png	BadValue: Bad value for Object expression.  Looking for an object or script identifier, got '1-800-123-4567 for cus'. -- Execution Time 0:00:06 WorkingWithPatterns.script

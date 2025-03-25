@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Usecases/Using Exceldata as input_script" package="ExcelFile Interactions.suite" timestamp="2025-02-20 12:11:43.779 +0530"
+ tests="1"  failures="0" errors="0" time="41.417000">
+  <properties>
+   <property name="RunDate" value="2025-02-20 12:11:43.779 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Usecases/Using Exceldata as input.script" assertions="1" status="success"  time="41.36">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,28 @@
+﻿
+
+create file ResourcePath("myDataFile.csv") 
+
+put ResourcePath("myDataFile.csv")  into CSVfileLocation
+
+put line 1 of file CSVfileLocation into data
+
+log data
+
+put "User" into line 1 of file CSVfileLocation
+
+put "Email" into line 1 of file CSVfileLocation
+//put "Email" into column
+
+create file  ResourcePath("NewSample.csv")
+
+put ResourcePath("NewSample.csv") into TestcaseData
+
+
+put "Password" into item 2 of line 1 of file TestcaseData
+
+Repeat with each line of file TestcaseData
+	put last item of it 
+End Repeat
+put TestcaseData
+
+delete item 1 of file TestcaseData

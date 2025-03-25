@@ -1,0 +1,19 @@
+﻿
+
+//Using "Record" keyword will only fetch onr record. If multiple records satisfy a  given condition then only first record would be fetched.
+
+set MyDB to {Type:"ODBC",DSN:"Sudhee_ODBC",user:"root",Password:"Sudhee@2001"}
+
+set Mytable to table "Sudheeksa.marklist" of myDB
+
+put record of MyTable where English > 95
+
+
+
+//Using "Records" will Fetch all the records that stisy the condition.
+
+set MyDB to {Type:"ODBC",DSN:"Sudhee_ODBC",user:"root",Password:"Sudhee@2001"}
+
+set Mytable to table "Sudheeksa.marklist" of myDB
+
+put records of MyTable where English > 95

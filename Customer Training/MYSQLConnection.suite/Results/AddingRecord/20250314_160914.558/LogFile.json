@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running AddingRecord.script",
+				"identifier": "START",
+				"timestamp": "2025-03-14 16:09:14.576 +0530"
+			},
+		{
+				"message": "(Duration:\"0.102\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-14 16:09:14 +0530\", Successes:\"0\", TestCase:\"AddingRecord.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-14 16:09:14.684 +0530"
+			},
+		{
+				"message": "STTableError: Value can't become a database table:  -- Execution Time 0:00:00 AddingRecord.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-14 16:09:14.760 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-14 16:09:14.579 +0530"
+}

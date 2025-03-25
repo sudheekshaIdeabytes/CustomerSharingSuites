@@ -1,0 +1,4 @@
+﻿2025-03-17 15:43:14.681 +0530	START		Running ZZZZZZZZZZ.script
+2025-03-17 15:43:16.313 +0530	Log		{idTesting:2}	12	on_zzzzzzzzzz	ZZZZZZZZZZ.script
+2025-03-17 15:43:16.360 +0530	EndTestCase		(Duration:"1.669", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 15:43:14 +0530", Successes:"0", TestCase:"ZZZZZZZZZZ.script", Warnings:"0")
+2025-03-17 15:43:16.595 +0530	FAILURE		STDatabaseException: Can't update record values -- table sample.testing has no primary key -- Execution Time 0:00:01 ZZZZZZZZZZ.script

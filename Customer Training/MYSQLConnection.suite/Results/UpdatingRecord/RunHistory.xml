@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UpdatingRecord">
+ <run>
+  <RunDate>2025-03-17 14:22:12.867 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.512000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_142212.867/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table Sudheeksa.marklist has no primary key</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 14:22:54.502 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.545000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_142254.502/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table sudheeksa.marklist has no primary key</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 14:23:51.534 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.534000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_142351.534/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table sudheeksa.marklist has no primary key</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 14:34:12.603 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.348000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_143412.603/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table sudheeksa.marklist has no primary key</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:15:40.612 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.522000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_151540.612/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table sudheeksa.marklist has no primary key</ErrorMessage>
+ </run>
+</runHistory>

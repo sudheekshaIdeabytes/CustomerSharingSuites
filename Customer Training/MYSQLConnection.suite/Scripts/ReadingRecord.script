@@ -1,0 +1,64 @@
+﻿
+
+//Reading records using "get records"
+
+set MyDB to {Type:"ODBC",DSN:"Sudhee_ODBC",User:"root",Password:"Sudhee@2001"}
+
+set MyTable to table "sudheeksa.marklist" of myDB
+
+put records of MyTable   // directly print the records in the form of property list of lists
+
+get records of MyTable   //get the records and store it internally.
+Log it
+
+get Studentname of the record of MyTable where Id = 101  // We can specify a particular column name when using get.
+Log it
+
+
+
+
+//Reading records based on condition ( Multiple records reading)
+
+set MyDB to {Type:"ODBC",DSN:"Sudhee_ODBC",user:"root",Password:"Sudhee@2001"}
+
+set Mytable to table "Sudheeksa.marklist" of myDB
+
+put records of MyTable where English > 95
+
+put the records of MyTable where English > 95  // For now , understand that "the" didn't made that munch change in the output but need to understand the behaviour.
+
+put the records of Mytable where English > 90 and Mathematics > 95
+
+put the records of Mytable where English > =  90 or Mathematics > 95
+
+
+
+
+
+//Iterating over each record in the database
+
+set MyDB to {type:"ODBC",DSN:"Sudhee_ODBC",user:"root",Password:"Sudhee@2001"}
+
+set Mytable to table "sudheeksa.Marklist" of MyDB
+
+put records of MyTable where StudentName ends with "a" into Data
+
+repeat with each item in data
+	log it
+end repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

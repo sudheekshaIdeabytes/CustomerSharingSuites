@@ -1,0 +1,52 @@
+﻿
+
+set MyDB to {type:"ODBC",DSN:"Sudhee_ODBC",user:"root",password:"Sudhee@2001"}
+
+set mytable to table "sudheeksa.marklist" of myDB
+
+
+//There are 2 ways of using 
+
+
+
+--use record iterator propery
+
+put the records of Mytable where Total is greater than 280 into data
+
+set the useRecordIterator of data to yes     // we can even set for entire table.
+
+repeat 4 times
+	log nextValue of data  // to iterate use "nextvalue" keyword
+end repeat
+
+
+
+--Directly request for Iterator
+
+//We use "iterate over the records" 
+
+set memberIterator to iterate over the records of mytable
+
+//Use "nextvalue" property toiterate over the records.
+
+put memberIterator's nextValue into currentMember
+
+log currentMember
+
+put memberIterator's nextValue into currentMember
+
+log currentMember
+
+
+
+
+
+
+
+
+
+
+
+
+
+

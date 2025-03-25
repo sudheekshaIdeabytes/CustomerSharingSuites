@@ -1,0 +1,4 @@
+﻿2025-03-20 10:52:03.944 +0530	START		Running WebDriverActions.script
+2025-03-20 10:54:04.232 +0530	WebConnect		{browser:"Chrome", host:"127.0.0.1", url:@"https:\\\\demoblaze.com"}	5	on_webdriveractions	WebDriverActions.script
+2025-03-20 10:54:04.255 +0530	EndTestCase		(Duration:"120.306", Errors:"0", Exceptions:"0", StartTime:"2025-03-20 10:52:03 +0530", Successes:"1", TestCase:"WebDriverActions.script", Warnings:"0")
+2025-03-20 10:54:04.292 +0530	SUCCESS		Execution Time 0:02:00 WebDriverActions.script

@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-17 13:31:03.137 +0530,"Failure",0:00:00,1,0,0,"20250317_133103.137/LogFile.txt","","STTableError -- Value can't become a database table: memberTable",0
+2025-03-17 13:31:21.160 +0530,"Success",0:00:00,0,0,0,"20250317_133121.160/LogFile.txt","","",1
+2025-03-17 13:31:45.228 +0530,"Success",0:00:00,0,0,0,"20250317_133145.228/LogFile.txt","","",1
+2025-03-17 13:38:11.617 +0530,"Success",0:00:00,0,0,0,"20250317_133811.617/LogFile.txt","","",1
+2025-03-17 13:38:45.948 +0530,"Failure",0:00:00,1,0,0,"20250317_133845.948/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'lastvalue'",0
+2025-03-17 13:39:00.848 +0530,"Failure",0:00:00,1,0,0,"20250317_133900.848/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'last'",0

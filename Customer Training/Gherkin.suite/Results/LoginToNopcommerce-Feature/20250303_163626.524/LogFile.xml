@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:36:26.524 +0530"
+ tests="3"  failures="0" errors="0" time="11.810000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:36:26.524 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="10.066">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="1" status="(null)"  time="1.713">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="2" status="success"  time="11.801">
+  </testcase>
+ </testsuite>
+</testsuites>

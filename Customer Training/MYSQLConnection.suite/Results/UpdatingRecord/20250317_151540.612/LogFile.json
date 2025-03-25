@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running UpdatingRecord.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 15:15:40.655 +0530"
+			},
+		{
+				"message": "(Duration:\"1.46\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-17 15:15:40 +0530\", Successes:\"0\", TestCase:\"UpdatingRecord.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 15:15:42.139 +0530"
+			},
+		{
+				"message": "STDatabaseException: Can't update record values -- table sudheeksa.marklist has no primary key -- Execution Time 0:00:01 UpdatingRecord.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-17 15:15:42.354 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 15:15:40.671 +0530"
+}

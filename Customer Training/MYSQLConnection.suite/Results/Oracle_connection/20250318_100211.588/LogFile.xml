@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Oracle_connection_script" package="MYSQLConnection.suite" timestamp="2025-03-18 10:02:11.588 +0530"
+ tests="1"  failures="1" errors="0" time="0.206000">
+  <properties>
+   <property name="RunDate" value="2025-03-18 10:02:11.588 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Oracle_connection.script" assertions="1" status="failure"  time="0.197">
+    <failure type="FAILURE" message="ST_ODBC_ResultError: [Oracle][ODBC][Ora]ORA-00942: table or view does not exist\n, SQLSTATE=42S02 -- Execution Time 0:00:00 Oracle_connection.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

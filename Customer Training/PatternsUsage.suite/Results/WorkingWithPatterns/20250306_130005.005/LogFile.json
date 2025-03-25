@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running WorkingWithPatterns.script",
+				"identifier": "START",
+				"timestamp": "2025-03-06 13:00:05.018 +0530"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:00:06.412 +0530",
+				"scriptName": "WorkingWithPatterns.script",
+				"message": "at (85, 143)",
+				"image": "(TEXT:\"call\")",
+				"handlerLine": 4,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:00:06.418 +0530",
+				"message": "SEARCHRECTANGLE = [105,133,285,153]",
+				"scriptName": "WorkingWithPatterns.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_workingwithpatterns",
+				"timestamp": "2025-03-06 13:00:11.433 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "WorkingWithPatterns.script",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"6.43\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-03-06 13:00:05 +0530\", Successes:\"0\", TestCase:\"WorkingWithPatterns.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-06 13:00:11.453 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: readtext Error - Image Property List did not contain \"ImageName\" property -- Execution Time 0:00:06 WorkingWithPatterns.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-06 13:00:11.746 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-06 13:00:05.022 +0530"
+}

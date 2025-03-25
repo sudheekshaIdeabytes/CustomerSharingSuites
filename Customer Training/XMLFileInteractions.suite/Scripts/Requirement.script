@@ -1,0 +1,29 @@
+﻿
+
+put file ResourcePath("Infosys(Mizuho).xml") as tree into XMLdata
+//log XMLdata
+put formattedTime("%Y-%m-%d", date) into formattedDate
+
+
+put item 1 of item 2 of item 1 of item 1 of item 2 of  item 2 of XMLdata as text into Temp
+split Temp by "T"
+put formattedDate into item 1 of Temp
+put temp joined with "T" into temp
+put temp into item 1 of item 2 of item 1 of item 1 of item 2 of  item 2  of XMLdata
+put XMLdata into file ResourcePath("Infosys(Mizuho).xml")
+
+
+
+put item 1 of item 6 of  item 1 of  item 2 of XMLdata  as text into Temp
+split Temp by "T"
+put formattedDate into item 1 of Temp
+put temp joined with "T" into temp
+put temp into  item 1 of item 6 of  item 1 of  item 2 of XMLdata
+put XMLdata into file ResourcePath("Infosys(Mizuho).xml")
+
+
+
+put formattedDate into item 4 of  item 2 of  item 1 of  item 2 of item 2 of XMLdata
+put XMLdata into file ResourcePath("Infosys(Mizuho).xml")
+
+

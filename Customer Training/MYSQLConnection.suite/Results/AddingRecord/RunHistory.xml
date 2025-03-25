@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="AddingRecord">
+ <run>
+  <RunDate>2025-03-14 16:09:14.558 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.124000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250314_160914.558/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:10:17.586 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.107000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250314_161017.586/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:11:18.980 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.239000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_161118.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:36:09.171 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.965000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_163609.171/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:36:50.361 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.126000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_163650.361/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:37:20.333 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.242000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_163720.333/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:38:34.413 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.053000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250314_163834.413/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry &#x27;104&#x27; for key &#x27;marklist.PRIMARY&#x27;, SQLSTATE=23000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:39:45.676 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.980000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_163945.676/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 16:58:23.803 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.026000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_165823.803/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-14 17:03:55.056 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.099000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250314_170355.056/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 14:08:34.135 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.538000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_140834.135/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry &#x27;106&#x27; for key &#x27;marklist.PRIMARY&#x27;, SQLSTATE=23000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 14:09:12.191 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.528000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_140912.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

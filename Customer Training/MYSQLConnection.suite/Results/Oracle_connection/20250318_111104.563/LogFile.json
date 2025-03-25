@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Oracle_connection.script",
+				"identifier": "START",
+				"timestamp": "2025-03-18 11:11:04.569 +0530"
+			},
+		{
+				"message": "(Duration:\"0.16\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-18 11:11:04 +0530\", Successes:\"0\", TestCase:\"Oracle_connection.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-18 11:11:04.734 +0530"
+			},
+		{
+				"message": "ST_ODBC_ResultError: [Oracle][ODBC][Ora]ORA-00942: table or view does not exist\\n, SQLSTATE=42S02 -- Execution Time 0:00:00 Oracle_connection.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-18 11:11:04.843 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-18 11:11:04.572 +0530"
+}

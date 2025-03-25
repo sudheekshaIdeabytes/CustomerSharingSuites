@@ -1,0 +1,62 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcases/TC_01.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 15:16:33.128 +0530"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:16:33.323 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:16:41.082 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "found at (117, 875)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_omega13operation",
+				"timestamp": "2025-02-25 15:16:42.252 +0530",
+				"message": "firefox https:\\\\geeksforgeeks.org[return]",
+				"scriptName": "GeeksforGeeks/ToaccessallCourses.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:16:46.588 +0530",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"message": "at (72, 364)",
+				"image": "(TEXT:\"For Students\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_overridecommand",
+				"timestamp": "2025-02-25 15:16:57.082 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/Program Files/Eggplant/Eggplant.app/Resources/EggplantCommon.suite/Scripts/Omega13.script",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"24.043\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-02-25 15:16:33 +0530\", Successes:\"0\", TestCase:\"Testcases/TC_01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 15:16:57.175 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:24 Testcases/TC_01.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-02-25 15:16:57.189 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 15:16:33.132 +0530"
+}

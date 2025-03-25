@@ -1,0 +1,77 @@
+﻿
+
+
+
+put ImageLocation(text:"Confirm pickup") into ConfirmPickupLocation   //the location of the text "Confirm pickup"
+
+put ImageLocation("shape") into Shape // the location of the shape on the top right of the "conformation window" (i.e the up arrow)
+
+Put ImageLocation(text:"INPUT") into InpLoc // the location of the text "Input Quantity"
+
+set the SearchRectangle to [[ConfirmPickupLocation.x -45,ConfirmPickupLocation.y -20 ], [Shape.x- 10, InpLoc.y -10]]  // change the co-ordinates based on the screen
+wait 5 
+// the searchrectangle should start from the confirmpickup to above Input Quantity
+
+put readtext (the SearchRectangle) as text into RandomCaptcha  // Reading the text from the search rectangle
+
+delete "confirm pickup" from RandomCaptcha  // As it also reads the word "confirm pickup" , removing it .
+
+//To remove all the special chararecters from the RandomCapcha.
+put "" into  Captcha
+repeat with each character of RandomCaptcha
+	if it is an alphanumeric then put it after Captcha
+end repeat
+
+log Captcha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*
+log RandomCapcha
+
+
+
+
+put ImageLocation(text:"Confirm pickup") into conLoc
+Put ImageLocation("shape") into shploc
+Put ImageLocation(text:"INPUT") into InpLoc
+
+
+set the SearchRectangle to [[conLoc.x -45,conLoc.y -20 ], [shploc.x- 10, InpLoc.y -10]]
+
+put ReadText(the SearchRectangle) into universal hello
+
+
+Delete "confirm pickup" from  universal hello
+Log universal hello*)
+
+
+
+
+
+
+
+
+
+

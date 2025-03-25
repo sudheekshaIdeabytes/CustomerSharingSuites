@@ -1,0 +1,25 @@
+﻿(*
+
+****Very very important note****
+
+WebElement Identifiers : Used in findelement() or findelements() functions to identify the webelement in the website
+Example : set NarrowSearch to FindElement(webClassName:"hrefch") 
+
+WebElement Objects : To access any of the property on the found element
+put NarrowSearch's class
+
+
+*)
+
+
+
+set the WebDriver's windowsize to "max"  // to set the window to max size of the active webdriver connection
+set the webdriver's URL to "https://demoblaze.com"  
+
+set NarrowSearch to FindElement(webClassName:"hrefch") 
+put NarrowSearch's class
+
+
+put text of findelement(WebID:"nava")
+
+click webXPath: "//a[@class='hrefch']"

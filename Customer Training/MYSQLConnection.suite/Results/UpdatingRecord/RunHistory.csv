@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-17 14:22:12.867 +0530,"Failure",0:00:00,1,0,0,"20250317_142212.867/LogFile.txt","","STDatabaseException -- Can't update record values -- table Sudheeksa.marklist has no primary key",0
+2025-03-17 14:22:54.502 +0530,"Failure",0:00:00,1,0,0,"20250317_142254.502/LogFile.txt","","STDatabaseException -- Can't update record values -- table sudheeksa.marklist has no primary key",0
+2025-03-17 14:23:51.534 +0530,"Failure",0:00:00,1,0,0,"20250317_142351.534/LogFile.txt","","STDatabaseException -- Can't update record values -- table sudheeksa.marklist has no primary key",0
+2025-03-17 14:34:12.603 +0530,"Failure",0:00:01,1,0,0,"20250317_143412.603/LogFile.txt","","STDatabaseException -- Can't update record values -- table sudheeksa.marklist has no primary key",0
+2025-03-17 15:15:40.612 +0530,"Failure",0:00:01,1,0,0,"20250317_151540.612/LogFile.txt","","STDatabaseException -- Can't update record values -- table sudheeksa.marklist has no primary key",0

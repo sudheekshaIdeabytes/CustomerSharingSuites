@@ -1,0 +1,26 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcase/TC01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-21 16:53:13.011 +0530"
+			},
+		{
+				"message": "(Duration:\"0.08\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-21 16:53:13 +0530\", Successes:\"0\", TestCase:\"Testcase/TC01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-21 16:53:13.098 +0530"
+			},
+		{
+				"message": "STUnknownMessage: ERROR: No Such Command: 'openapplication' -- Execution Time 0:00:00 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 16:53:13.157 +0530"
+			},
+		{
+				"image": "Screen_Error_Web.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'openapplication' -- Execution Time 0:00:00 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 16:53:13.298 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-21 16:53:13.015 +0530"
+}

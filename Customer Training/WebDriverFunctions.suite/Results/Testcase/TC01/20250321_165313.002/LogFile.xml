@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Testcase/TC01_script" package="WebDriverFunctions.suite" timestamp="2025-03-21 16:53:13.002 +0530"
+ tests="1"  failures="2" errors="0" time="0.095000">
+  <properties>
+   <property name="RunDate" value="2025-03-21 16:53:13.002 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Testcase/TC01.script" assertions="1" status="failure"  time="0.08">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;openapplication&apos; -- Execution Time 0:00:00 Testcase/TC01.script" />
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;openapplication&apos; -- Execution Time 0:00:00 Testcase/TC01.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

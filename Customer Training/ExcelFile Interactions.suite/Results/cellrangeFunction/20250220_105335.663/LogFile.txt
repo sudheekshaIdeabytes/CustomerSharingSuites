@@ -1,0 +1,3 @@
+﻿2025-02-20 10:53:35.671 +0530	START		Running cellrangeFunction.script
+2025-02-20 10:53:57.127 +0530	EndTestCase		(Duration:"21.451", Errors:"0", Exceptions:"0", StartTime:"2025-02-20 10:53:35 +0530", Successes:"1", TestCase:"cellrangeFunction.script", Warnings:"0")
+2025-02-20 10:53:57.236 +0530	SUCCESS		Execution Time 0:00:21 cellrangeFunction.script

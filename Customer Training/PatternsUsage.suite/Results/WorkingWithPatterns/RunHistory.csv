@@ -1,0 +1,27 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-06 12:13:55.132 +0530,"Success",0:00:31,0,0,0,"20250306_121355.132/LogFile.txt","","",1
+2025-03-06 12:19:44.917 +0530,"Success",0:00:06,0,0,0,"20250306_121944.917/LogFile.txt","","",1
+2025-03-06 12:23:00.580 +0530,"Failure",0:00:06,1,0,1,"20250306_122300.580/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 105",0
+2025-03-06 12:50:34.479 +0530,"Failure",0:00:06,1,0,1,"20250306_125034.479/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: \\d",0
+2025-03-06 12:51:35.736 +0530,"Failure",0:00:06,1,0,1,"20250306_125135.736/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: \\d",0
+2025-03-06 12:53:00.647 +0530,"Failure",0:00:06,1,0,1,"20250306_125300.647/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: \\d+?",0
+2025-03-06 13:00:05.005 +0530,"Failure",0:00:06,1,0,1,"20250306_130005.005/LogFile.txt","","Error Running Script Command -- readtext Error - Image Property List did not contain ""ImageName"" property",0
+2025-03-06 13:00:29.726 +0530,"Success",0:00:06,0,0,0,"20250306_130029.726/LogFile.txt","","",1
+2025-03-06 13:01:33.869 +0530,"Success",0:00:06,0,0,0,"20250306_130133.869/LogFile.txt","","",1
+2025-03-06 13:02:53.806 +0530,"Success",0:00:06,0,0,0,"20250306_130253.806/LogFile.txt","","",1
+2025-03-06 13:03:39.097 +0530,"Success",0:00:06,0,0,0,"20250306_130339.097/LogFile.txt","","",1
+2025-03-06 13:06:02.403 +0530,"Success",0:00:06,0,0,0,"20250306_130602.403/LogFile.txt","","",1
+2025-03-06 13:07:35.988 +0530,"Failure",0:00:06,1,0,0,"20250306_130735.988/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '1-800-123-4567 for cus'.",0
+2025-03-06 13:09:17.161 +0530,"Success",0:00:06,0,0,0,"20250306_130917.161/LogFile.txt","","",1
+2025-03-06 13:15:06.352 +0530,"Success",0:00:06,0,0,0,"20250306_131506.352/LogFile.txt","","",1
+2025-03-06 13:15:25.200 +0530,"Success",0:00:06,0,0,0,"20250306_131525.200/LogFile.txt","","",1
+2025-03-06 13:15:46.612 +0530,"Failure",0:00:00,1,0,0,"20250306_131546.612/LogFile.txt","","SenseTalk Compiler Exception -- in workingwithpatterns:\nSyntax Error at line 14: can't understand ""PhoneNumber"" at character 15",0
+2025-03-06 13:19:15.809 +0530,"Success",0:00:03,0,0,0,"20250306_131915.809/LogFile.txt","","",1
+2025-03-06 13:19:28.159 +0530,"Success",0:00:03,0,0,0,"20250306_131928.159/LogFile.txt","","",1
+2025-03-06 13:19:41.074 +0530,"Success",0:00:03,0,0,0,"20250306_131941.074/LogFile.txt","","",1
+2025-03-06 13:20:16.936 +0530,"Success",0:00:03,0,0,0,"20250306_132016.936/LogFile.txt","","",1
+2025-03-06 13:21:02.230 +0530,"Success",0:00:03,0,0,0,"20250306_132102.230/LogFile.txt","","",1
+2025-03-06 13:26:20.640 +0530,"Success",0:00:04,0,0,0,"20250306_132620.640/LogFile.txt","","",1
+2025-03-11 15:05:13.572 +0530,"Success",0:00:04,0,0,0,"20250311_150513.572/LogFile.txt","","",1
+2025-03-11 15:05:52.222 +0530,"Success",0:00:06,0,0,0,"20250311_150552.222/LogFile.txt","","",1
+2025-03-11 15:43:14.818 +0530,"Success",0:00:08,0,0,0,"20250311_154314.818/LogFile.txt","","",1

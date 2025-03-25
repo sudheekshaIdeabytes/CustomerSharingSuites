@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="AddingRecord_script" package="MYSQLConnection.suite" timestamp="2025-03-14 16:09:14.558 +0530"
+ tests="1"  failures="1" errors="0" time="0.124000">
+  <properties>
+   <property name="RunDate" value="2025-03-14 16:09:14.558 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="AddingRecord.script" assertions="1" status="failure"  time="0.102">
+    <failure type="FAILURE" message="STTableError: Value can&apos;t become a database table:  -- Execution Time 0:00:00 AddingRecord.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

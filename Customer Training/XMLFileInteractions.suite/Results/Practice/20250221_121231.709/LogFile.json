@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Practice.script",
+				"identifier": "START",
+				"timestamp": "2025-02-21 12:12:31.718 +0530"
+			},
+		{
+				"handlerName": "on_practice",
+				"timestamp": "2025-02-21 12:12:31.783 +0530",
+				"message": "<order id =\"001\">\\n  <customer name=\"Janet Brown\"/>\\n  <product code=\"prod345\" size=\"6\">\\n    <quantity>3</quantity>\\n    <amount>23.45</amount>\\n  </product>\\n</order>",
+				"scriptName": "Practice.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.177\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-21 12:12:31 +0530\", Successes:\"1\", TestCase:\"Practice.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-21 12:12:31.903 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Practice.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-21 12:12:31.962 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-21 12:12:31.724 +0530"
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:02:53.151 +0530"
+ tests="7"  failures="4" errors="4" time="62.288000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:02:53.151 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="23.824">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="1" status="(null)"  time="10.131">
+  </testcase>
+  <testcase name="click on the login option" assertions="0" status="(null)"  time="0.007">
+  </testcase>
+  <testcase name="Enter Email address" assertions="1" status="(null)"  time="10.8">
+  </testcase>
+  <testcase name="Enter password" assertions="1" status="(null)"  time="11.364">
+  </testcase>
+  <testcase name="click on Login button" assertions="1" status="(null)"  time="6.115">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="6" status="error"  time="62.277">
+    <failure type="LogError" message="Error at step: The application launches on the chrome browser" />
+    <failure type="LogError" message="Error at step: Enter Email address" />
+    <failure type="LogError" message="Error at step: Enter password" />
+    <failure type="LogError" message="Error at step: click on Login button" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

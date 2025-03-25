@@ -1,0 +1,5 @@
+﻿
+
+//Simply as do foe excel as DB , we pass 4 parameters ; type , DSN (the name we gave in ODBC creation under SYStem DSN) , user (User name of your SQL) , and finally password
+set myDB to {type:"odbc", DSN:"Sudhee_ODBC", user:"root", password:"Sudhee@2001"}
+

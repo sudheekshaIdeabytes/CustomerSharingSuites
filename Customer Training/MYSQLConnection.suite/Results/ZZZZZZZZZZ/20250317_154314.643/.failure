@@ -1,0 +1,1 @@
+2025-03-17 15:43:14.643 +0530,Failure,0:00:01,1,0,0,20250317_154314.643/LogFile.txt,"","STDatabaseException -- Can't update record values -- table sample.testing has no primary key",0

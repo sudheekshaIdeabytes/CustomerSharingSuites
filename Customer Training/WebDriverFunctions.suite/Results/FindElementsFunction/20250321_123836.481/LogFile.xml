@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="FindElementsFunction_script" package="WebDriverFunctions.suite" timestamp="2025-03-21 12:38:36.481 +0530"
+ tests="1"  failures="2" errors="0" time="2.517000">
+  <properties>
+   <property name="RunDate" value="2025-03-21 12:38:36.481 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="FindElementsFunction.script" assertions="1" status="failure"  time="2.503">
+    <failure type="FAILURE" message="FailedToFindElement: Couldn&apos;t find element identified by {WebID:&quot;article&quot;} -- Response code 404 received from Selenium Server. {&quot;error&quot;: &quot;no such element&quot;,&quot;message&quot;: &quot;no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#article&quot;}&quot;}. -- Execution Time 0:00:02 FindElementsFunction.script" />
+    <failure type="FAILURE" message="FailedToFindElement: Couldn&apos;t find element identified by {WebID:&quot;article&quot;} -- Response code 404 received from Selenium Server. {&quot;error&quot;: &quot;no such element&quot;,&quot;message&quot;: &quot;no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#article&quot;}&quot;}. -- Execution Time 0:00:02 FindElementsFunction.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

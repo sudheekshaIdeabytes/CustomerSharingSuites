@@ -1,0 +1,9 @@
+﻿
+
+set Mydb to {type:"ODBC",DSN:"OracleXe",user:"SYSTEM",password:"Sudhee@2001"}
+
+set mytable to table "SUDHEEKSHA.Employees" of Mydb
+
+put records of mytable
+
+

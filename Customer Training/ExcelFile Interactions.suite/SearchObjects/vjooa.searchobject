@@ -1,0 +1,35 @@
+{
+	"lastmodifieddate": 1740048494.471,
+	"ocrcapturestring": "oo",
+	"originalcapturelocation": [
+		823,
+		277,
+		166,
+		42
+	],
+	"createddate": 1740048458.6700001,
+	"testlocationdata": [
+		{
+				"capturedocrtext": "oo",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[100,19]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					823,
+					277,
+					166,
+					42
+				],
+				"name": "vjooa.png"
+			}
+	],
+	"name": "vjooa"
+}

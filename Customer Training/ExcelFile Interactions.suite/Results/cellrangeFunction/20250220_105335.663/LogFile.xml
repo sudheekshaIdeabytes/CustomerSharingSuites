@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="cellrangeFunction_script" package="ExcelFile Interactions.suite" timestamp="2025-02-20 10:53:35.663 +0530"
+ tests="1"  failures="0" errors="0" time="21.463000">
+  <properties>
+   <property name="RunDate" value="2025-02-20 10:53:35.663 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="cellrangeFunction.script" assertions="1" status="success"  time="21.451">
+  </testcase>
+ </testsuite>
+</testsuites>

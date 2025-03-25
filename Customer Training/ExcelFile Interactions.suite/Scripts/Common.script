@@ -1,0 +1,4 @@
+﻿
+to OpenWorkbook 
+	set global MyWorkbook to Workbook(ResourcePath("StudentMarkList.xlsx"))
+end OpenWorkbook

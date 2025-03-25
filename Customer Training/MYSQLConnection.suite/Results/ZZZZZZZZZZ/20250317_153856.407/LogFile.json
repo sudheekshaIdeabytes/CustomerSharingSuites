@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running ZZZZZZZZZZ.script",
+				"identifier": "START",
+				"timestamp": "2025-03-17 15:38:56.430 +0530"
+			},
+		{
+				"message": "(Duration:\"1.293\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-17 15:38:56 +0530\", Successes:\"0\", TestCase:\"ZZZZZZZZZZ.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-17 15:38:57.736 +0530"
+			},
+		{
+				"message": "ST_ODBC_InsertError: [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Column 'idTesting' cannot be null, SQLSTATE=HY000 -- Execution Time 0:00:01 ZZZZZZZZZZ.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-17 15:38:58.061 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-17 15:38:56.438 +0530"
+}

@@ -1,0 +1,4 @@
+﻿2025-03-17 14:34:12.630 +0530	START		Running UpdatingRecord.script
+2025-03-17 14:34:13.916 +0530	Log		{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:"Avinash", Total:286}	12	on_updatingrecord	UpdatingRecord.script
+2025-03-17 14:34:13.953 +0530	EndTestCase		(Duration:"1.305", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 14:34:12 +0530", Successes:"0", TestCase:"UpdatingRecord.script", Warnings:"0")
+2025-03-17 14:34:14.230 +0530	FAILURE		STDatabaseException: Can't update record values -- table sudheeksa.marklist has no primary key -- Execution Time 0:00:01 UpdatingRecord.script

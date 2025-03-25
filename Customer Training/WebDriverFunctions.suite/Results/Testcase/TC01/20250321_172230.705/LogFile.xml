@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Testcase/TC01_script" package="WebDriverFunctions.suite" timestamp="2025-03-21 17:22:30.705 +0530"
+ tests="1"  failures="0" errors="0" time="9.953000">
+  <properties>
+   <property name="RunDate" value="2025-03-21 17:22:30.705 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Testcase/TC01.script" assertions="1" status="success"  time="9.941">
+  </testcase>
+ </testsuite>
+</testsuites>

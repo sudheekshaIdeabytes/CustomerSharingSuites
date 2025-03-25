@@ -1,0 +1,13 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-03 16:01:35.528 +0530,"Failure",0:00:00,6,1,5,"20250303_160135.528/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2025-03-03 16:02:53.151 +0530,"Aborted",0:01:02,5,1,4,"20250303_160253.151/LogFile.txt","","",1
+2025-03-03 16:09:20.700 +0530,"Failure",0:00:50,2,1,1,"20250303_160920.700/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Welcome to store"")"" within 20.00 seconds. Text not found.",4
+2025-03-03 16:27:49.337 +0530,"Failure",0:00:46,2,1,1,"20250303_162749.337/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Welcome to store"")"" within 20.00 seconds. Text not found.",4
+2025-03-03 16:29:13.739 +0530,"Failure",0:00:25,2,1,0,"20250303_162913.739/LogFile.txt","","STInvalidBoolean -- Value 'You are in nopcom...' is not TRUE, FALSE, YES, NO, ON, OFF or empty",4
+2025-03-03 16:30:06.846 +0530,"Success",0:00:18,0,1,0,"20250303_163006.846/LogFile.txt","","",5
+2025-03-03 16:36:26.524 +0530,"Success",0:00:11,0,0,0,"20250303_163626.524/LogFile.txt","","",2
+2025-03-03 16:37:20.560 +0530,"Success",0:00:09,0,0,0,"20250303_163720.560/LogFile.txt","","",1
+2025-03-03 16:37:37.569 +0530,"Success",0:00:10,0,0,0,"20250303_163737.569/LogFile.txt","","",1
+2025-03-03 16:39:58.261 +0530,"Success",0:00:00,0,6,0,"20250303_163958.261/LogFile.txt","","",1
+2025-03-03 17:00:26.029 +0530,"Success",0:00:00,0,6,0,"20250303_170026.029/LogFile.txt","","",1
+2025-03-04 14:42:35.887 +0530,"Success",0:00:00,0,0,0,"20250304_144235.887/LogFile.txt","","",1

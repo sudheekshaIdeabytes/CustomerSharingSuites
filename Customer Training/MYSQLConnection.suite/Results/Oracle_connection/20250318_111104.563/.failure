@@ -1,0 +1,1 @@
+2025-03-18 11:11:04.563 +0530,Failure,0:00:00,1,0,0,20250318_111104.563/LogFile.txt,"","ST_ODBC_ResultError -- [Oracle][ODBC][Ora]ORA-00942: table or view does not exist\n, SQLSTATE=42S02",0

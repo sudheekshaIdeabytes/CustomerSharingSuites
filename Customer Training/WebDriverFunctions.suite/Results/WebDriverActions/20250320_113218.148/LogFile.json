@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running WebDriverActions.script",
+				"identifier": "START",
+				"timestamp": "2025-03-20 11:32:18.154 +0530"
+			},
+		{
+				"handlerName": "on_webdriveractions",
+				"timestamp": "2025-03-20 11:36:18.402 +0530",
+				"message": "{browser:\"Chrome\", host:\"127.0.0.1\", temporary:True}",
+				"scriptName": "WebDriverActions.script",
+				"handlerLine": 5,
+				"identifier": "WebConnect"
+			},
+		{
+				"message": "(Duration:\"240.268\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-20 11:32:18 +0530\", Successes:\"1\", TestCase:\"WebDriverActions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-20 11:36:18.424 +0530"
+			},
+		{
+				"message": "Execution Time 0:04:00 WebDriverActions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-20 11:36:18.463 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-20 11:32:18.156 +0530"
+}

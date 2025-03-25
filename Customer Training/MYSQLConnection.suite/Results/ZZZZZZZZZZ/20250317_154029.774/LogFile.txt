@@ -1,0 +1,3 @@
+﻿2025-03-17 15:40:29.799 +0530	START		Running ZZZZZZZZZZ.script
+2025-03-17 15:40:30.997 +0530	EndTestCase		(Duration:"1.186", Errors:"1", Exceptions:"0", StartTime:"2025-03-17 15:40:29 +0530", Successes:"0", TestCase:"ZZZZZZZZZZ.script", Warnings:"0")
+2025-03-17 15:40:31.291 +0530	FAILURE		ST_ODBC_InsertError: [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry '3' for key 'testing.PRIMARY', SQLSTATE=23000 -- Execution Time 0:00:01 ZZZZZZZZZZ.script

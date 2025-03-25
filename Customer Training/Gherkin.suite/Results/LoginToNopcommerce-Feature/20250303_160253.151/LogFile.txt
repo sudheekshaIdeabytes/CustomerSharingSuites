@@ -1,0 +1,23 @@
+﻿2025-03-03 16:02:53.158 +0530	START		Running Untitled.feature
+2025-03-03 16:02:53.233 +0530	typetext		[windowsKey]r	2	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:02:55.151 +0530	typetext		firefox https:\\demo.nopcommerce.com\[return]	3	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:03:16.972 +0530	Exception	(TEXT:"Welcome to store")	Unable To Find Any Image On Screen "(TEXT:"Welcome to store")" within 20.00 seconds. Text not found.	4	on_the_application_launches_on_the_chrome_browser	Untitled.script<SOURCE>
+2025-03-03 16:03:16.984 +0530	LogError		Error at step: The application launches on the chrome browser	4	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:16.989 +0530	EndTestCase		(Duration:"23.824", Errors:"1", Exceptions:"1", StartTime:"2025-03-03 16:02:53 +0530", Successes:"0", TestCase:"The application launches on the chrome browser", Warnings:"0")
+2025-03-03 16:03:27.098 +0530	imagefound	(TEXT:"Log in")	Unable to Find Image (TEXT:"Log in"). Text not found.	2	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:03:27.111 +0530	Log		You have already logged in	6	on_login_option_is_avilable	Untitled.script<SOURCE>
+2025-03-03 16:03:27.119 +0530	LogSuccess		Start Time: 16:03:16, Stop Time: 16:03:27 step: Login option is avilable	5	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:27.125 +0530	EndTestCase		(Duration:"10.131", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:03:16 +0530", Successes:"1", TestCase:"Login option is avilable", Warnings:"0")
+2025-03-03 16:03:27.129 +0530	LogWarning		Execution issue at step: click on the login option	6	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:27.137 +0530	EndTestCase		(Duration:"0.007", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:03:27 +0530", Successes:"0", TestCase:"click on the login option", Warnings:"1")
+2025-03-03 16:03:37.923 +0530	Exception	(TEXT:"Email")	No Text Found On Screen: "(TEXT:"Email")". Text not found.	2	on_textentry	common.script
+2025-03-03 16:03:37.938 +0530	LogError		Error at step: Enter Email address	7	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:37.944 +0530	EndTestCase		(Duration:"10.8", Errors:"1", Exceptions:"1", StartTime:"2025-03-03 16:03:27 +0530", Successes:"0", TestCase:"Enter Email address", Warnings:"0")
+2025-03-03 16:03:49.027 +0530	Exception	(TEXT:"password")	No Text Found On Screen: "(TEXT:"password")". Text not found.	2	on_textentry	common.script
+2025-03-03 16:03:49.307 +0530	LogError		Error at step: Enter password	8	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:49.313 +0530	EndTestCase		(Duration:"11.364", Errors:"1", Exceptions:"1", StartTime:"2025-03-03 16:03:37 +0530", Successes:"0", TestCase:"Enter password", Warnings:"0")
+2025-03-03 16:03:55.419 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	2	on_click_on_login_button	Untitled.script<SOURCE>
+2025-03-03 16:03:55.430 +0530	LogError		Error at step: click on Login button	9	Untitled.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:03:55.435 +0530	EndTestCase		(Duration:"6.115", Errors:"1", Exceptions:"1", StartTime:"2025-03-03 16:03:49 +0530", Successes:"0", TestCase:"click on Login button", Warnings:"0")
+2025-03-03 16:03:55.440 +0530	EndTestCase		(Duration:"62.277", Errors:"5", Exceptions:"4", StartTime:"2025-03-03 16:02:53 +0530", Successes:"1", TestCase:"Untitled.feature", Warnings:"1")
+2025-03-03 16:03:55.451 +0530	ABORTED		1 scenarios (1 failed, 0 passed) 6 steps (4 failed, 1 skipped, 1 passed) Execution Time 0:01:02

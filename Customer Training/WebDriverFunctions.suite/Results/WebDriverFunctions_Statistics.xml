@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Testcase/TC01">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2025-03-21 16:53:13 +0530</FirstRun>
+  <LastRun>2025-03-21 17:36:12 +0530</LastRun>
+  <TotalTimeOnSuccess>11.744000</TotalTimeOnSuccess>
+ </script>
+ <script name="WebDriverActions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2025-03-20 10:46:12 +0530</FirstRun>
+  <LastRun>2025-03-20 11:32:18 +0530</LastRun>
+  <TotalTimeOnSuccess>484.971000</TotalTimeOnSuccess>
+ </script>
+ <script name="FindElementsFunction">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2025-03-21 12:38:36 +0530</FirstRun>
+  <LastRun>2025-03-21 12:38:36 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

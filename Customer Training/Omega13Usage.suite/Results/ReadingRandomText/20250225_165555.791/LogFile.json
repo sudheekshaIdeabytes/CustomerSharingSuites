@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running ReadingRandomText.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 16:55:55.805 +0530"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 16:55:58.378 +0530",
+				"scriptName": "ReadingRandomText.script",
+				"message": "at (695, 274)",
+				"image": "(TEXT:\"Confirm pickup\")",
+				"handlerLine": 5,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 16:55:58.518 +0530",
+				"scriptName": "ReadingRandomText.script",
+				"message": "at (1289, 233)",
+				"image": "shape",
+				"handlerLine": 7,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 16:56:00.982 +0530",
+				"scriptName": "ReadingRandomText.script",
+				"message": "at (696, 368)",
+				"image": "(TEXT:\"Input capacity\")",
+				"handlerLine": 9,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_readingrandomtext",
+				"timestamp": "2025-02-25 16:56:00.990 +0530",
+				"message": "SEARCHRECTANGLE = [[755,233],[686,368]]",
+				"scriptName": "ReadingRandomText.script",
+				"handlerLine": 11,
+				"identifier": "set"
+			},
+		{
+				"message": "(Duration:\"10.203\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-25 16:55:55 +0530\", Successes:\"1\", TestCase:\"ReadingRandomText.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 16:56:06.013 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 ReadingRandomText.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-25 16:56:06.057 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 16:55:55.809 +0530"
+}

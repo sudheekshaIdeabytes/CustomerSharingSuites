@@ -1,0 +1,14 @@
+﻿
+
+// Using "add record" command
+
+set MyDB to {type:"ODBC",DSN:"Sudhee_ODBC",user:"root",password:"Sudhee@2001"}
+
+set mytable to table "sudheeksa.marklist" of myDB
+put the records of  mytable
+
+//set NewStudent to {Id:101,StudentName: "Avinash",English:98,Mathematics:96,Science:92,Total:286,Ranks:1}
+
+add record NewStudent to mytable
+
+

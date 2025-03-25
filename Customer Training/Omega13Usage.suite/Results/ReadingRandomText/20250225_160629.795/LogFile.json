@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running ReadingRandomText.script",
+				"identifier": "START",
+				"timestamp": "2025-02-25 16:06:29.805 +0530"
+			},
+		{
+				"message": "(Duration:\"0.132\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-25 16:06:29 +0530\", Successes:\"1\", TestCase:\"ReadingRandomText.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-25 16:06:29.943 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 ReadingRandomText.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-25 16:06:30.006 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-25 16:06:29.809 +0530"
+}

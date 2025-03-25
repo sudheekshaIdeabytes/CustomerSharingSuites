@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Keywords.script",
+				"identifier": "START",
+				"timestamp": "2025-03-11 17:23:08.413 +0530"
+			},
+		{
+				"message": "(Duration:\"0.107\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-03-11 17:23:08 +0530\", Successes:\"0\", TestCase:\"Keywords.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-11 17:23:08.525 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Invalid Property: Cannot set global property 'PATTERN' -- Execution Time 0:00:00 Keywords.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-11 17:23:09.014 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-11 17:23:08.417 +0530"
+}

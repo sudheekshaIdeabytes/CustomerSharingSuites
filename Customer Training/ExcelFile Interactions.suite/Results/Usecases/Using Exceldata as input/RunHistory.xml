@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Usecases/Using Exceldata as input">
+ <run>
+  <RunDate>2025-02-20 11:27:18.011 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.024000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250220_112718.011/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in using_exceldata_as_input:
+Syntax Error at line 11: can&#x27;t understand [end of line] at character 17</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-02-20 12:03:31.723 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>125.967000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250220_120331.723/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-02-20 12:11:19.908 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.461000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250220_121119.908/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): C:/Users/sudheeksha.gunuputi/Documents/Eggplant/MyWorkbook</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-02-20 12:11:43.779 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>41.417000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250220_121143.779/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

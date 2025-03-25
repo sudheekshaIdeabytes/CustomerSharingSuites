@@ -1,0 +1,1 @@
+2025-03-17 15:40:42.286 +0530,Failure,0:00:01,1,0,0,20250317_154042.286/LogFile.txt,"","ST_ODBC_ResultError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Unknown column 'id' in 'where clause', SQLSTATE=42S22",0

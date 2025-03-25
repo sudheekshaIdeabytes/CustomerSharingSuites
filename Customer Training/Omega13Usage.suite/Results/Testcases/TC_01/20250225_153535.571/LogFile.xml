@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Testcases/TC_01_script" package="Omega13Usage.suite" timestamp="2025-02-25 15:35:35.571 +0530"
+ tests="1"  failures="1" errors="3" time="51.273000">
+  <properties>
+   <property name="RunDate" value="2025-02-25 15:35:35.571 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Testcases/TC_01.script" assertions="1" status="error"  time="51.262">
+    <failure type="FAILURE" message="No Remote Connection: click Error - Retrieving Frame Buffer:No Connection to Server\n71_Machine\n -- Execution Time 0:00:51 Testcases/TC_01.script" />
+    <error type="Throw" message="No Remote Connection - click Error - Retrieving Frame Buffer:No Connection to Server\n71_Machine\n" />
+  </testcase>
+ </testsuite>
+</testsuites>

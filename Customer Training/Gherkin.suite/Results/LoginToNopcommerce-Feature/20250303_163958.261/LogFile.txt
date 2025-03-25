@@ -1,0 +1,16 @@
+﻿2025-03-03 16:39:58.268 +0530	START		Running LoginToNopcommerce.feature
+2025-03-03 16:39:58.275 +0530	LogWarning		Execution issue at step: The application launches on the chrome browser	5	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.279 +0530	EndTestCase		(Duration:"0.003", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"The application launches on the chrome browser", Warnings:"1")
+2025-03-03 16:39:58.283 +0530	LogWarning		Execution issue at step: Login option is avilable	6	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.289 +0530	EndTestCase		(Duration:"0.005", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"Login option is avilable", Warnings:"1")
+2025-03-03 16:39:58.293 +0530	LogWarning		Execution issue at step: click on the login option	7	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.300 +0530	EndTestCase		(Duration:"0.005", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"click on the login option", Warnings:"1")
+2025-03-03 16:39:58.305 +0530	LogWarning		Execution issue at step: Enter Email address	8	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.309 +0530	EndTestCase		(Duration:"0.004", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"Enter Email address", Warnings:"1")
+2025-03-03 16:39:58.313 +0530	LogWarning		Execution issue at step: Enter password	9	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.319 +0530	EndTestCase		(Duration:"0.004", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"Enter password", Warnings:"1")
+2025-03-03 16:39:58.324 +0530	LogWarning		Execution issue at step: click on Login button	10	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-03 16:39:58.328 +0530	EndTestCase		(Duration:"0.005", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"0", TestCase:"click on Login button", Warnings:"1")
+2025-03-03 16:39:58.334 +0530	EndTestCase		(Duration:"0.058", Errors:"0", Exceptions:"0", StartTime:"2025-03-03 16:39:58 +0530", Successes:"1", TestCase:"LoginToNopcommerce.feature", Warnings:"6")
+2025-03-03 16:39:58.664 +0530	Error Screen	C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/Gherkin.suite/Results/LoginToNopcommerce-Feature/20250303_163958.261/Screen_Error.png	CapturedErrorScreenshot	21E55D47-4FD3-6E0E-78B6-656DC0BDB569
+2025-03-03 16:39:58.668 +0530	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 6 steps (0 failed, 6 skipped, 0 passed) Execution Time 0:00:00

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataPDU xmlns="urn:swift:saa:xsd:saa.2.0">
+  <Header>
+    <Message>
+      <SenderReference>HNpacs009CA03003</SenderReference>
+      <Messageldentifier>pacs.009.001.08</Messageldentifier>
+      <Format>AnyXML</Format>
+      <SubFormat>Input</SubFormat>
+      <Sender>
+        <DN>o=eobbmykl,o=swift</DN>
+        <FullName>
+          <X1>EOBBMYKLXXX</X1>
+        </FullName>
+      </Sender>
+      <Receiver>
+        <DN>o=bnmamy2k,o=swift</DN>
+        <FullName>
+          <X1>BNMAMY2KXXX</X1>
+        </FullName>
+      </Receiver>
+      <NetworkInfo>
+        <Service>bnm.rtgslpi</Service>
+      </NetworkInfo>
+    </Message>
+  </Header>
+  <Body>
+    <AppHdr xmlns="urn:iso:std:iso:20022:tech:xsd:head.001.001.01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Fr>
+        <FIId>
+          <FinInstnId>
+            <BICFI>EOBBMYKL</BICFI>
+          </FinInstnId>
+        </FIId>
+      </Fr>
+      <To>
+        <FIId>
+          <FinInstnId>
+            <BICFI>BNMAMY2K</BICFI>
+          </FinInstnId>
+        </FIId>
+      </To>
+      <BizMsgIdr>HNpacs009CA03003</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <BizSvc>bnm.rts.pb.01</BizSvc>
+      <CreDt>2025-02-24T03:27:16Z</CreDt>
+    </AppHdr>
+    <Document xmlns="urn:iso:std:iso:20022:tech:xsd:pacs.009.001.08" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <FICdtTrf>
+        <GrpHdr>
+          <MsgId>HNpacs009CA03003</MsgId>
+          <CreDtTm>2025-02-24T11:27:16</CreDtTm>
+          <NbOfTxs>1</NbOfTxs>
+          <SttlmInf>
+            <SttlmMtd>CLRG</SttlmMtd>
+          </SttlmInf>
+        </GrpHdr>
+        <CdtTrfTxInf><PmtId><InstrId>HNpacs009CA03003</InstrId><EndToEndId>NONREF</EndToEndId><TxId>HNpacs009CA03003</TxId><UETR>eb6305c9-1f7f-49de-aed0-16487c27b88d</UETR></PmtId><PmtTpInf><CtgyPurp><Prtry>IFT00</Prtry></CtgyPurp></PmtTpInf><IntrBkSttlmAmt Ccy="MYR">100</IntrBkSttlmAmt>2025-02-24<InstgAgt><FinInstnId><BICFI>EOBBMYKL</BICFI></FinInstnId></InstgAgt><InstdAgt><FinInstnId><BICFI>BKEWMYK1</BICFI></FinInstnId></InstdAgt><Dbtr><FinInstnId><BICFI>EOBBMYKL</BICFI></FinInstnId></Dbtr><Cdtr><FinInstnId><BICFI>BKEWMYK1</BICFI></FinInstnId></Cdtr><InstrForNxtAgt><InstrInf>/PAYA/MY67BNMA1554010237</InstrInf></InstrForNxtAgt><InstrForNxtAgt><InstrInf>/CPRA/MY06BNMABKEW1606293121</InstrInf></InstrForNxtAgt><RmtInf><Ustrd>/STCD/stock info</Ustrd></RmtInf></CdtTrfTxInf>
+      </FICdtTrf>
+    </Document>
+  </Body>
+</DataPDU>

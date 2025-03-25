@@ -1,0 +1,34 @@
+﻿
+set universal text to "Your total is $99.99, including tax & fees. Have a nice day! Please call 1-800-123-4567 for customer service assistance."
+
+
+//Some characters   -- atleat text should have 1 character
+
+set pattern1 to <some characters>
+put pattern1 matches universal text
+
+
+// exactly
+
+set pattern2 to <exactly 10 digits or one or more characters>
+put pattern2 matches universal text
+
+
+// to 
+
+set pattern3 to <10 to 100 characters>  -- the total number of characters should be between this number
+put pattern3 matches  universal text   
+
+
+//lots of 
+
+set pattern4 to <lots of digits>
+log every occurrence of pattern4 in universal text 
+set pattern5 to <one or more digits>
+log every occurrence of pattern5 in universal text 
+
+//preferably
+set pattern6 to <lots of digits then maybe (".",lots of digits)>
+log every occurrence of pattern6 in universal text 
+set pattern7 to <lots digits then preferably (".",lots of digits)>
+log every occurrence of pattern7 in universal text 

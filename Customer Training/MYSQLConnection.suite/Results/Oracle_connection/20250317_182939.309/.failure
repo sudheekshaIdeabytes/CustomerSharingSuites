@@ -1,0 +1,1 @@
+2025-03-17 18:29:39.309 +0530,Failure,0:00:01,1,0,0,20250317_182939.309/LogFile.txt,"","STDatabaseConnectionError -- Failed to connect to ODBC database odbc:4 Reason: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied\n, SQLSTATE=28000",0

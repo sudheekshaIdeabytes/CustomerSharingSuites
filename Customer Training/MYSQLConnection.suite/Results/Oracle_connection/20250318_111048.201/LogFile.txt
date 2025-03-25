@@ -1,0 +1,3 @@
+﻿2025-03-18 11:10:48.208 +0530	START		Running Oracle_connection.script
+2025-03-18 11:10:48.331 +0530	EndTestCase		(Duration:"0.12", Errors:"0", Exceptions:"0", StartTime:"2025-03-18 11:10:48 +0530", Successes:"1", TestCase:"Oracle_connection.script", Warnings:"0")
+2025-03-18 11:10:48.439 +0530	SUCCESS		Execution Time 0:00:00 Oracle_connection.script

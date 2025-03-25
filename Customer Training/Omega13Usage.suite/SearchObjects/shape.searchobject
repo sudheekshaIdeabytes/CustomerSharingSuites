@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1740482049.05,
+	"lastfoundlocation": [
+		1279,
+		220,
+		20,
+		26
+	],
+	"originalcapturelocation": [
+		1271,
+		212,
+		36,
+		43
+	],
+	"createddate": 1740482002.71,
+	"lastfounddate": 1740488028.0369999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 59036,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[18,21]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown VNC"
+				},
+				"name": "shape.png",
+				"connectionname": "Mymachine",
+				"type": 1,
+				"capturerect": [
+					1271,
+					212,
+					36,
+					43
+				],
+				"connectiontype": "Single System",
+				"connectionserverid": "127.0.0.1"
+			}
+	],
+	"name": "shape"
+}

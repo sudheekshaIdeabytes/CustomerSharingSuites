@@ -1,0 +1,105 @@
+{
+	"entries": [
+		{
+				"message": "Running Usecases/Using Exceldata as input.script",
+				"identifier": "START",
+				"timestamp": "2025-02-20 12:03:31.756 +0530"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:03:31.970 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:03:36.488 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:03:37.835 +0530",
+				"message": "Chrome https://demo.nopcommerce.com[return]",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"handlerLine": 15,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:03:50.899 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "found at (871, 885)",
+				"image": "(TEXT:\"Welcome\")",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:03:55.552 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "at (1279, 108)",
+				"image": "(TEXT:\"Log in\")",
+				"handlerLine": 18,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:04:49.441 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "at (1051, 528)",
+				"image": "(TEXT:\"Email\")",
+				"handlerLine": 24,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:05:21.545 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"identifier": "typetext",
+				"handlerLine": 25
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:05:25.301 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "at (1038, 583)",
+				"image": "(TEXT:\"Password\")",
+				"handlerLine": 27,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:05:26.997 +0530",
+				"message": "https://demo.nopcommerce.com",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"handlerLine": 28,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_using_exceldata_as_input",
+				"timestamp": "2025-02-20 12:05:30.693 +0530",
+				"scriptName": "Usecases/Using Exceldata as input.script",
+				"message": "at (1256, 725)",
+				"image": "(TEXT:\"LOG IN\")",
+				"handlerLine": 30,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"125.923\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-20 12:03:31 +0530\", Successes:\"1\", TestCase:\"Usecases/Using Exceldata as input.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-20 12:05:37.694 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:05 Usecases/Using Exceldata as input.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-20 12:05:37.911 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-20 12:03:31.766 +0530"
+}

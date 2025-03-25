@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Testcase/TC01_script" package="WebDriverFunctions.suite" timestamp="2025-03-21 17:36:12.566 +0530"
+ tests="1"  failures="2" errors="1" time="14.408000">
+  <properties>
+   <property name="RunDate" value="2025-03-21 17:36:12.566 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Testcase/TC01.script" assertions="1" status="error"  time="14.397">
+    <failure type="FAILURE" message="WebElement Not Found: click Error - \nUnable to find the WebElement &apos;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&apos; on the page. -- Execution Time 0:00:14 Testcase/TC01.script" />
+    <failure type="FAILURE" message="WebElement Not Found: click Error - \nUnable to find the WebElement &apos;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&apos; on the page. -- Execution Time 0:00:14 Testcase/TC01.script" />
+    <error type="Exception" message="Web Element Not Found: &quot;&lt;WebElement identified by {webXPath:&quot;//*[@id=logInModal]/div/div/div[3]/button[2]&quot;} – not resolved yet&gt;&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

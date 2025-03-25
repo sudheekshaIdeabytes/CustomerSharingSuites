@@ -1,0 +1,23 @@
+﻿(*
+
+For learning Webdriver Navigate to below link 
+https://docs.eggplantsoftware.com/studio/epf-selenium-webdriver-testing
+
+
+Once you have your connection (be it a WebDriver connection or a SauceLabs connection), you can use SenseTalk WebDriver commands and functions to create your tests
+Webdriver actions
+Finding webelements
+Webdriver mouse and Keyboard interactions
+
+
+
+****Very very important note****
+
+WebElement Identifiers : Used in findelement() or findelements() functions to identify the webelement in the website
+Example : set NarrowSearch to FindElement(webClassName:"hrefch") 
+
+WebElement Objects : To access any of the property on the found element
+put NarrowSearch's class
+
+
+Instead of "typetext" we use "sendkeys" command to write on the application

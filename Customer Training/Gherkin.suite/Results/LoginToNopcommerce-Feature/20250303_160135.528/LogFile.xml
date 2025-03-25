@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:01:35.528 +0530"
+ tests="7"  failures="6" errors="5" time="0.181000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:01:35.528 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="0.025">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="1" status="(null)"  time="0.018">
+  </testcase>
+  <testcase name="click on the login option" assertions="0" status="(null)"  time="0.004">
+  </testcase>
+  <testcase name="Enter Email address" assertions="1" status="(null)"  time="0.031">
+  </testcase>
+  <testcase name="Enter password" assertions="1" status="(null)"  time="0.024">
+  </testcase>
+  <testcase name="click on Login button" assertions="1" status="(null)"  time="0.016">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="6" status="error"  time="0.153">
+    <failure type="LogError" message="Error at step: The application launches on the chrome browser" />
+    <failure type="LogError" message="Error at step: Login option is avilable" />
+    <failure type="LogError" message="Error at step: Enter Email address" />
+    <failure type="LogError" message="Error at step: Enter password" />
+    <failure type="LogError" message="Error at step: click on Login button" />
+    <failure type="FAILURE" message="1 scenarios (1 failed, 0 passed) 6 steps (5 failed, 1 skipped, 0 passed) Execution Time 0:00:00" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

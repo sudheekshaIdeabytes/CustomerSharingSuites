@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-21 12:38:36.481 +0530,"Failure",0:00:02,1,0,0,"20250321_123836.481/LogFile.txt","","FailedToFindElement -- Couldn't find element identified by {WebID:""article""} -- Response code 404 received from Selenium Server. {""error"": ""no such element"",""message"": ""no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#article""}""}.",0

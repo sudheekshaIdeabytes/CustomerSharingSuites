@@ -1,0 +1,19 @@
+﻿
+
+//cellrange() - gives access to a multiple cells in a range of rows, columns, or rectangular region of a worksheet. 
+
+//It has 2 parameters; strating and ending cell value.
+
+put cellrange() of universal StudentmarkList
+put -
+
+Put cellrange(A2,F2) of universal StudentmarkList 
+put -
+
+put cellrange([1,1],[1,5]) of universal StudentmarkList
+put -
+
+
+
+
+

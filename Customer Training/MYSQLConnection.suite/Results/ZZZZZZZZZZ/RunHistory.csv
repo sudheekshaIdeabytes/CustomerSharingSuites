@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-03-17 15:38:56.407 +0530,"Failure",0:00:01,1,0,0,"20250317_153856.407/LogFile.txt","","ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Column 'idTesting' cannot be null, SQLSTATE=HY000",0
+2025-03-17 15:39:32.957 +0530,"Success",0:00:01,0,0,0,"20250317_153932.957/LogFile.txt","","",1
+2025-03-17 15:39:42.810 +0530,"Success",0:00:01,0,0,0,"20250317_153942.810/LogFile.txt","","",1
+2025-03-17 15:39:49.469 +0530,"Success",0:00:01,0,0,0,"20250317_153949.469/LogFile.txt","","",1
+2025-03-17 15:40:29.774 +0530,"Failure",0:00:01,1,0,0,"20250317_154029.774/LogFile.txt","","ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry '3' for key 'testing.PRIMARY', SQLSTATE=23000",0
+2025-03-17 15:40:42.286 +0530,"Failure",0:00:01,1,0,0,"20250317_154042.286/LogFile.txt","","ST_ODBC_ResultError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Unknown column 'id' in 'where clause', SQLSTATE=42S22",0
+2025-03-17 15:41:28.339 +0530,"Success",0:00:01,0,0,0,"20250317_154128.339/LogFile.txt","","",1
+2025-03-17 15:43:14.643 +0530,"Failure",0:00:01,1,0,0,"20250317_154314.643/LogFile.txt","","STDatabaseException -- Can't update record values -- table sample.testing has no primary key",0

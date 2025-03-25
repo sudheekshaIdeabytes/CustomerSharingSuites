@@ -1,0 +1,138 @@
+{
+	"entries": [
+		{
+				"message": "Running Testcase/TC01.script",
+				"identifier": "START",
+				"timestamp": "2025-03-21 17:34:18.772 +0530"
+			},
+		{
+				"handlerName": "on_openapplication",
+				"timestamp": "2025-03-21 17:34:20.875 +0530",
+				"message": "https://demoblaze.com on {blendScaledScreen:False, Browser:\"chrome\", colorDepth:0, height:768, Host:\"127.0.0.1\", model:\"Chrome\", Name:\"WebdriverChrome\", overrideName:\"WebdriverChrome\", Port:4444, scaleRemoteScreen:0, skipAvailabilityCheck:False, temporary:False, type:\"WebDriver\", username:\"\", width:1024}",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 3,
+				"identifier": "Set URL"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:21.547 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1183, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"signin2\", Name:\"\", Text:\"Sign up\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1149.925049,17.262501,1217.925049,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:22.860 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (751, 71)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-username\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[517,52.596874,985,90.596874]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:22.922 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:24.150 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (751, 170)",
+				"image": "<WebElement with TagName:\"input\", ID:\"sign-password\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[517,151.184372,985,189.184372]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:24.212 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-03-21 17:34:25.446 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (941, 292)",
+				"image": "<WebElement with TagName:\"button\", ID:\"\", Name:\"\", Text:\"\", Class:\"btn btn-primary\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[897.525024,273.571869,985.525024,311.571869]>",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:28.085 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (1121, 37)",
+				"image": "<WebElement with TagName:\"a\", ID:\"login2\", Name:\"\", Text:\"Log in\", Class:\"nav-link\", IsSelected:No, IsEnabled:Yes, IsDisplayed:Yes, Rectangle:[1092.075073,17.262501,1150.075073,57.262501]>",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:29.300 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginusername\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:29.346 +0530",
+				"message": "Eggplant",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 4,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:30.537 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "at (0, 0)",
+				"image": "<WebElement with TagName:\"input\", ID:\"loginpassword\", Name:\"\", Text:\"\", Class:\"form-control\", IsSelected:No, IsEnabled:Yes, IsDisplayed:No, Rectangle:[0,0,0,0]>",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:30.584 +0530",
+				"message": "welcome@123",
+				"scriptName": "Testcase/Common.script",
+				"handlerLine": 6,
+				"identifier": "sendkeys"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2025-03-21 17:34:33.851 +0530",
+				"scriptName": "Testcase/Common.script",
+				"message": "Web Element Not Found: \"<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>\"",
+				"image": "<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"15.122\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-03-21 17:34:18 +0530\", Successes:\"0\", TestCase:\"Testcase/TC01.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-21 17:34:33.898 +0530"
+			},
+		{
+				"message": "WebElement Not Found: click Error - \\nUnable to find the WebElement '<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>' on the page. -- Execution Time 0:00:15 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 17:34:33.964 +0530"
+			},
+		{
+				"image": "Screen_Error_Web.png",
+				"message": "WebElement Not Found: click Error - \\nUnable to find the WebElement '<WebElement identified by {webXPath:\"//*[@id=logInModal]/div/div/div[3]/button[2]\"} – not resolved yet>' on the page. -- Execution Time 0:00:15 Testcase/TC01.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-03-21 17:34:34.280 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-21 17:34:18.775 +0530"
+}

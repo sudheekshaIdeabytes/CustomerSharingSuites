@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running AddingRecord.script",
+				"identifier": "START",
+				"timestamp": "2025-03-14 16:11:19.005 +0530"
+			},
+		{
+				"message": "(Duration:\"1.2\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-03-14 16:11:19 +0530\", Successes:\"1\", TestCase:\"AddingRecord.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-03-14 16:11:20.222 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 AddingRecord.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-03-14 16:11:20.354 +0530"
+			}
+	],
+	"createdTimestamp": "2025-03-14 16:11:19.017 +0530"
+}

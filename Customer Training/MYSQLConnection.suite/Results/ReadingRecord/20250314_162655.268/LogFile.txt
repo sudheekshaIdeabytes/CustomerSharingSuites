@@ -1,0 +1,4 @@
+﻿2025-03-14 16:26:55.277 +0530	START		Running ReadingRecord.script
+2025-03-14 16:26:56.125 +0530	Log		[{English:98, Id:101, Mathematics:96, Ranks:1, Science:92, StudentName:"Avinash", Total:286}]	11	on_readingrecord	ReadingRecord.script
+2025-03-14 16:26:56.167 +0530	EndTestCase		(Duration:"0.883", Errors:"0", Exceptions:"0", StartTime:"2025-03-14 16:26:55 +0530", Successes:"1", TestCase:"ReadingRecord.script", Warnings:"0")
+2025-03-14 16:26:56.293 +0530	SUCCESS		Execution Time 0:00:00 ReadingRecord.script

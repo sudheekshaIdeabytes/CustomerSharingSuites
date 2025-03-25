@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-02-20 10:27:38.036 +0530,"Failure",0:00:00,1,0,0,"20250220_102738.036/LogFile.txt","","WorkbookWriteError -- Error (can't open file for writing) saving workbook to file C:/Users/sudheeksha.gunuputi/Documents/Eggplant/Customer Training/ExcelFile Interactions.suite/Resources/StudentMarkList.xlsx",0
+2025-02-20 10:27:49.499 +0530,"Success",0:00:00,0,0,0,"20250220_102749.499/LogFile.txt","","",1
+2025-02-20 10:31:23.779 +0530,"Success",0:00:05,0,0,0,"20250220_103123.779/LogFile.txt","","",1

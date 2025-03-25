@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="DeleteRecord_script" package="MYSQLConnection.suite" timestamp="2025-03-14 16:58:43.344 +0530"
+ tests="1"  failures="0" errors="0" time="1.373000">
+  <properties>
+   <property name="RunDate" value="2025-03-14 16:58:43.344 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="DeleteRecord.script" assertions="1" status="success"  time="1.355">
+  </testcase>
+ </testsuite>
+</testsuites>

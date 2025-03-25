@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_feature" package="Gherkin.suite" timestamp="2025-03-03 16:27:49.337 +0530"
+ tests="7"  failures="2" errors="1" time="46.484000">
+  <properties>
+   <property name="RunDate" value="2025-03-03 16:27:49.337 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="The application launches on the chrome browser" assertions="1" status="(null)"  time="31.244">
+  </testcase>
+  <testcase name="Login option is avilable" assertions="1" status="(null)"  time="1.874">
+  </testcase>
+  <testcase name="click on the login option" assertions="0" status="(null)"  time="0.009">
+  </testcase>
+  <testcase name="Enter Email address" assertions="1" status="(null)"  time="9.216">
+  </testcase>
+  <testcase name="Enter password" assertions="1" status="(null)"  time="2.392">
+  </testcase>
+  <testcase name="click on Login button" assertions="1" status="(null)"  time="1.693">
+  </testcase>
+  <testcase name="Untitled.feature" assertions="6" status="error"  time="46.473">
+    <failure type="LogError" message="Error at step: The application launches on the chrome browser" />
+    <failure type="FAILURE" message="1 scenarios (1 failed, 0 passed) 6 steps (1 failed, 1 skipped, 4 passed) Execution Time 0:00:46" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;(TEXT:&quot;Welcome to store&quot;)&quot; within 20.00 seconds. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

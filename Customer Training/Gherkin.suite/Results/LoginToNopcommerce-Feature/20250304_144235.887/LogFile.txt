@@ -1,0 +1,6 @@
+﻿2025-03-04 14:42:35.893 +0530	START		Running LoginToNopcommerce.feature
+2025-03-04 14:42:35.974 +0530	Log		Successfully logged in to Nopcommerce	2	on_logsuccessmessage	LoginToNopcommerce.script<SOURCE>
+2025-03-04 14:42:35.981 +0530	LogSuccess		Start Time: 14:42:35, Stop Time: 14:42:35 step: LogSuccessMessage	3	LoginToNopcommerce.feature	GHERKIN_STEP_RESULT
+2025-03-04 14:42:35.986 +0530	EndTestCase		(Duration:"0.086", Errors:"0", Exceptions:"0", StartTime:"2025-03-04 14:42:35 +0530", Successes:"1", TestCase:"LogSuccessMessage", Warnings:"0")
+2025-03-04 14:42:35.992 +0530	EndTestCase		(Duration:"0.092", Errors:"0", Exceptions:"0", StartTime:"2025-03-04 14:42:35 +0530", Successes:"1", TestCase:"LoginToNopcommerce.feature", Warnings:"0")
+2025-03-04 14:42:36.060 +0530	SUCCESS		1 scenarios (0 failed, 1 passed) 1 steps (0 failed, 0 skipped, 1 passed) Execution Time 0:00:00

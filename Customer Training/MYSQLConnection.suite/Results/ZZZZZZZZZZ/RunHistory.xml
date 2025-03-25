@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="ZZZZZZZZZZ">
+ <run>
+  <RunDate>2025-03-17 15:38:56.407 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.327000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_153856.407/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Column &#x27;idTesting&#x27; cannot be null, SQLSTATE=HY000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:39:32.957 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.076000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_153932.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:39:42.810 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.234000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_153942.810/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:39:49.469 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.187000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_153949.469/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:40:29.774 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.220000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_154029.774/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_InsertError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Duplicate entry &#x27;3&#x27; for key &#x27;testing.PRIMARY&#x27;, SQLSTATE=23000</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:40:42.286 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.399000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_154042.286/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>ST_ODBC_ResultError -- [MySQL][ODBC 9.2(a) Driver][mysqld-8.0.41]Unknown column &#x27;id&#x27; in &#x27;where clause&#x27;, SQLSTATE=42S22</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:41:28.339 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.623000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_154128.339/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 15:43:14.643 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.715000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_154314.643/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t update record values -- table sample.testing has no primary key</ErrorMessage>
+ </run>
+</runHistory>

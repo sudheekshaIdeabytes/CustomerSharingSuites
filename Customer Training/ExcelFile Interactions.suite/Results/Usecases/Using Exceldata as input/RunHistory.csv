@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-02-20 11:27:18.011 +0530,"Failure",0:00:00,1,0,0,"20250220_112718.011/LogFile.txt","","SenseTalk Compiler Exception -- in using_exceldata_as_input:\nSyntax Error at line 11: can't understand [end of line] at character 17",0
+2025-02-20 12:03:31.723 +0530,"Success",0:02:05,0,0,0,"20250220_120331.723/LogFile.txt","","",1
+2025-02-20 12:11:19.908 +0530,"Failure",0:00:00,1,0,0,"20250220_121119.908/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/sudheeksha.gunuputi/Documents/Eggplant/MyWorkbook",0
+2025-02-20 12:11:43.779 +0530,"Success",0:00:41,0,0,0,"20250220_121143.779/LogFile.txt","","",1

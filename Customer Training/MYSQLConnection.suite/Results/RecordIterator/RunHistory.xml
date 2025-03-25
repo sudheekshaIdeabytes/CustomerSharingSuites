@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="RecordIterator">
+ <run>
+  <RunDate>2025-03-17 13:31:03.137 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.565000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_133103.137/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: memberTable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 13:31:21.160 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.533000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_133121.160/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 13:31:45.228 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.514000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_133145.228/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 13:38:11.617 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.568000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250317_133811.617/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 13:38:45.948 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.595000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_133845.948/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;lastvalue&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-03-17 13:39:00.848 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.553000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250317_133900.848/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;last&#x27;</ErrorMessage>
+ </run>
+</runHistory>

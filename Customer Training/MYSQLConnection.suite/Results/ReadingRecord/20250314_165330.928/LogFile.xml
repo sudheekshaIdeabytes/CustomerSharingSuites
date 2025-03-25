@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ReadingRecord_script" package="MYSQLConnection.suite" timestamp="2025-03-14 16:53:30.928 +0530"
+ tests="1"  failures="0" errors="0" time="1.023000">
+  <properties>
+   <property name="RunDate" value="2025-03-14 16:53:30.928 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ReadingRecord.script" assertions="1" status="success"  time="0.97">
+  </testcase>
+ </testsuite>
+</testsuites>
