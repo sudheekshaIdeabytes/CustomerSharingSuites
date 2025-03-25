@@ -1,1 +1,2 @@
-Gherkin is hard
+Gherkin is not so hard
+
